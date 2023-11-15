@@ -1,0 +1,8593 @@
+{
+  "filename": "Unison_IoT (1).pdf",
+  "page_data": [
+    {
+      "page": 0,
+      "image_url": "https://nnts.imgix.net/uploadedfiles/rawocr/68607257-7ede-44cd-bbf8-03a44ff7b6b6-1.jpeg?auto=compress&expires=1700014722&or=0&s=783b76bfa70d15577d7c16a47e461875",
+      "size": {
+        "width": 3300,
+        "height": 2550
+      },
+      "words": [
+        {
+          "text": "Internet",
+          "xmin": 1817,
+          "ymin": 169,
+          "xmax": 2007,
+          "ymax": 209
+        },
+        {
+          "text": "of",
+          "xmin": 2047,
+          "ymin": 169,
+          "xmax": 2086,
+          "ymax": 207
+        },
+        {
+          "text": "Things",
+          "xmin": 2126,
+          "ymin": 168,
+          "xmax": 2270,
+          "ymax": 222
+        },
+        {
+          "text": "(IoT",
+          "xmin": 2313,
+          "ymin": 168,
+          "xmax": 2401,
+          "ymax": 213
+        },
+        {
+          "text": "|",
+          "xmin": 2413,
+          "ymin": 175,
+          "xmax": 2417,
+          "ymax": 202
+        },
+        {
+          "text": "or",
+          "xmin": 2463,
+          "ymin": 181,
+          "xmax": 2506,
+          "ymax": 206
+        },
+        {
+          "text": "Machine",
+          "xmin": 2546,
+          "ymin": 168,
+          "xmax": 2727,
+          "ymax": 207
+        },
+        {
+          "text": "to",
+          "xmin": 2769,
+          "ymin": 176,
+          "xmax": 2807,
+          "ymax": 206
+        },
+        {
+          "text": "Machine",
+          "xmin": 2851,
+          "ymin": 168,
+          "xmax": 3032,
+          "ymax": 207
+        },
+        {
+          "text": "(",
+          "xmin": 1816,
+          "ymin": 227,
+          "xmax": 1826,
+          "ymax": 263
+        },
+        {
+          "text": "M2M",
+          "xmin": 1825,
+          "ymin": 226,
+          "xmax": 1924,
+          "ymax": 266
+        },
+        {
+          "text": "|",
+          "xmin": 1939,
+          "ymin": 228,
+          "xmax": 1946,
+          "ymax": 263
+        },
+        {
+          "text": "Communications",
+          "xmin": 1991,
+          "ymin": 219,
+          "xmax": 2369,
+          "ymax": 267
+        },
+        {
+          "text": "Architecture",
+          "xmin": 2408,
+          "ymin": 219,
+          "xmax": 2699,
+          "ymax": 267
+        },
+        {
+          "text": "IoT",
+          "xmin": 1801,
+          "ymin": 363,
+          "xmax": 1878,
+          "ymax": 401
+        },
+        {
+          "text": "and",
+          "xmin": 1893,
+          "ymin": 362,
+          "xmax": 1967,
+          "ymax": 402
+        },
+        {
+          "text": "M2M",
+          "xmin": 1982,
+          "ymin": 365,
+          "xmax": 2095,
+          "ymax": 401
+        },
+        {
+          "text": "systems",
+          "xmin": 2114,
+          "ymin": 375,
+          "xmax": 2278,
+          "ymax": 412
+        },
+        {
+          "text": "have",
+          "xmin": 2292,
+          "ymin": 362,
+          "xmax": 2387,
+          "ymax": 402
+        },
+        {
+          "text": "evolved",
+          "xmin": 2402,
+          "ymin": 362,
+          "xmax": 2561,
+          "ymax": 401
+        },
+        {
+          "text": "to",
+          "xmin": 2578,
+          "ymin": 375,
+          "xmax": 2618,
+          "ymax": 402
+        },
+        {
+          "text": "the",
+          "xmin": 2634,
+          "ymin": 362,
+          "xmax": 2698,
+          "ymax": 401
+        },
+        {
+          "text": "thing.",
+          "xmin": 2131,
+          "ymin": 406,
+          "xmax": 2246,
+          "ymax": 467
+        },
+        {
+          "text": "point",
+          "xmin": 2712,
+          "ymin": 363,
+          "xmax": 2825,
+          "ymax": 414
+        },
+        {
+          "text": "where",
+          "xmin": 2836,
+          "ymin": 362,
+          "xmax": 2966,
+          "ymax": 401
+        },
+        {
+          "text": "they",
+          "xmin": 2981,
+          "ymin": 362,
+          "xmax": 3073,
+          "ymax": 410
+        },
+        {
+          "text": "are",
+          "xmin": 3088,
+          "ymin": 378,
+          "xmax": 3148,
+          "ymax": 402
+        },
+        {
+          "text": "really",
+          "xmin": 1800,
+          "ymin": 416,
+          "xmax": 1919,
+          "ymax": 467
+        },
+        {
+          "text": "the",
+          "xmin": 1933,
+          "ymin": 416,
+          "xmax": 1997,
+          "ymax": 455
+        },
+        {
+          "text": "same",
+          "xmin": 2014,
+          "ymin": 432,
+          "xmax": 2115,
+          "ymax": 456
+        },
+        {
+          "text": "|",
+          "xmin": 2244,
+          "ymin": 449,
+          "xmax": 2247,
+          "ymax": 450
+        },
+        {
+          "text": "In",
+          "xmin": 2280,
+          "ymin": 419,
+          "xmax": 2324,
+          "ymax": 455
+        },
+        {
+          "text": "the",
+          "xmin": 2340,
+          "ymin": 416,
+          "xmax": 2403,
+          "ymax": 455
+        },
+        {
+          "text": "early",
+          "xmin": 2419,
+          "ymin": 416,
+          "xmax": 2522,
+          "ymax": 465
+        },
+        {
+          "text": "communication",
+          "xmin": 1883,
+          "ymin": 467,
+          "xmax": 2211,
+          "ymax": 510
+        },
+        {
+          "text": "days,",
+          "xmin": 2538,
+          "ymin": 416,
+          "xmax": 2649,
+          "ymax": 472
+        },
+        {
+          "text": "M2M",
+          "xmin": 2659,
+          "ymin": 412,
+          "xmax": 2773,
+          "ymax": 455
+        },
+        {
+          "text": "rcally",
+          "xmin": 2791,
+          "ymin": 416,
+          "xmax": 2910,
+          "ymax": 467
+        },
+        {
+          "text": "meant",
+          "xmin": 2924,
+          "ymin": 429,
+          "xmax": 3052,
+          "ymax": 456
+        },
+        {
+          "text": "that",
+          "xmin": 3068,
+          "ymin": 416,
+          "xmax": 3149,
+          "ymax": 456
+        },
+        {
+          "text": "the",
+          "xmin": 1801,
+          "ymin": 470,
+          "xmax": 1864,
+          "ymax": 509
+        },
+        {
+          "text": "occurred",
+          "xmin": 2226,
+          "ymin": 463,
+          "xmax": 2418,
+          "ymax": 510
+        },
+        {
+          "text": "over",
+          "xmin": 2437,
+          "ymin": 486,
+          "xmax": 2526,
+          "ymax": 510
+        },
+        {
+          "text": "a",
+          "xmin": 2545,
+          "ymin": 487,
+          "xmax": 2564,
+          "ymax": 506
+        },
+        {
+          "text": "cell",
+          "xmin": 2583,
+          "ymin": 463,
+          "xmax": 2652,
+          "ymax": 510
+        },
+        {
+          "text": "modem",
+          "xmin": 2670,
+          "ymin": 470,
+          "xmax": 2827,
+          "ymax": 510
+        },
+        {
+          "text": "network.",
+          "xmin": 2846,
+          "ymin": 463,
+          "xmax": 3035,
+          "ymax": 510
+        },
+        {
+          "text": "IoT",
+          "xmin": 3070,
+          "ymin": 471,
+          "xmax": 3148,
+          "ymax": 510
+        },
+        {
+          "text": "was",
+          "xmin": 1800,
+          "ymin": 540,
+          "xmax": 1877,
+          "ymax": 562
+        },
+        {
+          "text": "originally",
+          "xmin": 1902,
+          "ymin": 524,
+          "xmax": 2105,
+          "ymax": 573
+        },
+        {
+          "text": "thought",
+          "xmin": 2128,
+          "ymin": 524,
+          "xmax": 2295,
+          "ymax": 573
+        },
+        {
+          "text": "of",
+          "xmin": 2318,
+          "ymin": 524,
+          "xmax": 2362,
+          "ymax": 563
+        },
+        {
+          "text": "as",
+          "xmin": 2384,
+          "ymin": 538,
+          "xmax": 2420,
+          "ymax": 562
+        },
+        {
+          "text": "a",
+          "xmin": 2445,
+          "ymin": 541,
+          "xmax": 2463,
+          "ymax": 561
+        },
+        {
+          "text": "solution",
+          "xmin": 2488,
+          "ymin": 524,
+          "xmax": 2660,
+          "ymax": 564
+        },
+        {
+          "text": "for",
+          "xmin": 2684,
+          "ymin": 523,
+          "xmax": 2745,
+          "ymax": 563
+        },
+        {
+          "text": "small",
+          "xmin": 2768,
+          "ymin": 524,
+          "xmax": 2877,
+          "ymax": 563
+        },
+        {
+          "text": "devices",
+          "xmin": 2900,
+          "ymin": 524,
+          "xmax": 3048,
+          "ymax": 563
+        },
+        {
+          "text": "and",
+          "xmin": 3073,
+          "ymin": 524,
+          "xmax": 3146,
+          "ymax": 563
+        },
+        {
+          "text": "sensors",
+          "xmin": 1801,
+          "ymin": 594,
+          "xmax": 1951,
+          "ymax": 618
+        },
+        {
+          "text": "to",
+          "xmin": 1974,
+          "ymin": 591,
+          "xmax": 2013,
+          "ymax": 616
+        },
+        {
+          "text": "save",
+          "xmin": 2035,
+          "ymin": 595,
+          "xmax": 2121,
+          "ymax": 616
+        },
+        {
+          "text": "data",
+          "xmin": 2142,
+          "ymin": 578,
+          "xmax": 2228,
+          "ymax": 617
+        },
+        {
+          "text": "in",
+          "xmin": 2247,
+          "ymin": 579,
+          "xmax": 2284,
+          "ymax": 616
+        },
+        {
+          "text": "the",
+          "xmin": 2306,
+          "ymin": 578,
+          "xmax": 2370,
+          "ymax": 617
+        },
+        {
+          "text": "cloud",
+          "xmin": 2390,
+          "ymin": 578,
+          "xmax": 2507,
+          "ymax": 617
+        },
+        {
+          "text": "|",
+          "xmin": 2505,
+          "ymin": 585,
+          "xmax": 2516,
+          "ymax": 605
+        },
+        {
+          "text": "Today",
+          "xmin": 2556,
+          "ymin": 578,
+          "xmax": 2689,
+          "ymax": 629
+        },
+        {
+          "text": "these",
+          "xmin": 2708,
+          "ymin": 578,
+          "xmax": 2813,
+          "ymax": 617
+        },
+        {
+          "text": "have",
+          "xmin": 2833,
+          "ymin": 578,
+          "xmax": 2928,
+          "ymax": 617
+        },
+        {
+          "text": "expanded",
+          "xmin": 2949,
+          "ymin": 578,
+          "xmax": 3148,
+          "ymax": 634
+        },
+        {
+          "text": "and",
+          "xmin": 1801,
+          "ymin": 633,
+          "xmax": 1874,
+          "ymax": 673
+        },
+        {
+          "text": "merged",
+          "xmin": 1894,
+          "ymin": 633,
+          "xmax": 2049,
+          "ymax": 685
+        },
+        {
+          "text": "as",
+          "xmin": 2066,
+          "ymin": 649,
+          "xmax": 2104,
+          "ymax": 673
+        },
+        {
+          "text": "a",
+          "xmin": 2123,
+          "ymin": 650,
+          "xmax": 2141,
+          "ymax": 671
+        },
+        {
+          "text": "single",
+          "xmin": 2160,
+          "ymin": 633,
+          "xmax": 2279,
+          "ymax": 684
+        },
+        {
+          "text": "environment",
+          "xmin": 2297,
+          "ymin": 635,
+          "xmax": 2566,
+          "ymax": 673
+        },
+        {
+          "text": "O",
+          "xmin": 493,
+          "ymin": 694,
+          "xmax": 568,
+          "ymax": 775
+        },
+        {
+          "text": "across",
+          "xmin": 1802,
+          "ymin": 703,
+          "xmax": 1926,
+          "ymax": 727
+        },
+        {
+          "text": "a",
+          "xmin": 1955,
+          "ymin": 704,
+          "xmax": 1971,
+          "ymax": 726
+        },
+        {
+          "text": "protocols,",
+          "xmin": 2553,
+          "ymin": 681,
+          "xmax": 2765,
+          "ymax": 736
+        },
+        {
+          "text": "involving",
+          "xmin": 2582,
+          "ymin": 621,
+          "xmax": 2782,
+          "ymax": 685
+        },
+        {
+          "text": "communications",
+          "xmin": 2798,
+          "ymin": 634,
+          "xmax": 3147,
+          "ymax": 673
+        },
+        {
+          "text": "RoweBots",
+          "xmin": 689,
+          "ymin": 695,
+          "xmax": 1166,
+          "ymax": 765
+        },
+        {
+          "text": "network",
+          "xmin": 1982,
+          "ymin": 683,
+          "xmax": 2164,
+          "ymax": 727
+        },
+        {
+          "text": "using",
+          "xmin": 2179,
+          "ymin": 684,
+          "xmax": 2290,
+          "ymax": 738
+        },
+        {
+          "text": "a",
+          "xmin": 2305,
+          "ymin": 704,
+          "xmax": 2321,
+          "ymax": 726
+        },
+        {
+          "text": "variety",
+          "xmin": 2336,
+          "ymin": 688,
+          "xmax": 2482,
+          "ymax": 736
+        },
+        {
+          "text": "of",
+          "xmin": 2496,
+          "ymin": 686,
+          "xmax": 2540,
+          "ymax": 727
+        },
+        {
+          "text": "and",
+          "xmin": 2767,
+          "ymin": 678,
+          "xmax": 2853,
+          "ymax": 727
+        },
+        {
+          "text": "a",
+          "xmin": 2868,
+          "ymin": 703,
+          "xmax": 2886,
+          "ymax": 726
+        },
+        {
+          "text": "cloud",
+          "xmin": 2901,
+          "ymin": 687,
+          "xmax": 3017,
+          "ymax": 727
+        },
+        {
+          "text": "based",
+          "xmin": 3033,
+          "ymin": 687,
+          "xmax": 3147,
+          "ymax": 727
+        },
+        {
+          "text": "L",
+          "xmin": 685,
+          "ymin": 756,
+          "xmax": 762,
+          "ymax": 825
+        },
+        {
+          "text": "environment",
+          "xmin": 1802,
+          "ymin": 742,
+          "xmax": 2070,
+          "ymax": 781
+        },
+        {
+          "text": "for",
+          "xmin": 2090,
+          "ymin": 740,
+          "xmax": 2153,
+          "ymax": 781
+        },
+        {
+          "text": "i",
+          "xmin": 915,
+          "ymin": 779,
+          "xmax": 925,
+          "ymax": 814
+        },
+        {
+          "text": "t",
+          "xmin": 970,
+          "ymin": 786,
+          "xmax": 995,
+          "ymax": 822
+        },
+        {
+          "text": "d",
+          "xmin": 1113,
+          "ymin": 780,
+          "xmax": 1147,
+          "ymax": 826
+        },
+        {
+          "text": "capturing",
+          "xmin": 2172,
+          "ymin": 736,
+          "xmax": 2371,
+          "ymax": 793
+        },
+        {
+          "text": "and",
+          "xmin": 2392,
+          "ymin": 731,
+          "xmax": 2467,
+          "ymax": 781
+        },
+        {
+          "text": "i",
+          "xmin": 760,
+          "ymin": 779,
+          "xmax": 771,
+          "ymax": 814
+        },
+        {
+          "text": "storing",
+          "xmin": 2487,
+          "ymin": 743,
+          "xmax": 2634,
+          "ymax": 791
+        },
+        {
+          "text": "data",
+          "xmin": 2654,
+          "ymin": 741,
+          "xmax": 2741,
+          "ymax": 781
+        },
+        {
+          "text": "and",
+          "xmin": 2756,
+          "ymin": 733,
+          "xmax": 2835,
+          "ymax": 781
+        },
+        {
+          "text": "tools",
+          "xmin": 2855,
+          "ymin": 741,
+          "xmax": 2957,
+          "ymax": 781
+        },
+        {
+          "text": "to",
+          "xmin": 2978,
+          "ymin": 754,
+          "xmax": 3016,
+          "ymax": 781
+        },
+        {
+          "text": "build",
+          "xmin": 3041,
+          "ymin": 741,
+          "xmax": 3146,
+          "ymax": 780
+        },
+        {
+          "text": "|",
+          "xmin": 818,
+          "ymin": 794,
+          "xmax": 823,
+          "ymax": 813
+        },
+        {
+          "text": "m",
+          "xmin": 818,
+          "ymin": 794,
+          "xmax": 870,
+          "ymax": 822
+        },
+        {
+          "text": "|",
+          "xmin": 938,
+          "ymin": 783,
+          "xmax": 964,
+          "ymax": 814
+        },
+        {
+          "text": "e",
+          "xmin": 1037,
+          "ymin": 794,
+          "xmax": 1065,
+          "ymax": 822
+        },
+        {
+          "text": "these",
+          "xmin": 1801,
+          "ymin": 795,
+          "xmax": 1906,
+          "ymax": 834
+        },
+        {
+          "text": "environments",
+          "xmin": 1934,
+          "ymin": 793,
+          "xmax": 2220,
+          "ymax": 835
+        },
+        {
+          "text": "in",
+          "xmin": 2248,
+          "ymin": 796,
+          "xmax": 2285,
+          "ymax": 834
+        },
+        {
+          "text": "both",
+          "xmin": 2314,
+          "ymin": 786,
+          "xmax": 2409,
+          "ymax": 834
+        },
+        {
+          "text": "the",
+          "xmin": 2437,
+          "ymin": 795,
+          "xmax": 2501,
+          "ymax": 834
+        },
+        {
+          "text": "cloud",
+          "xmin": 2527,
+          "ymin": 788,
+          "xmax": 2644,
+          "ymax": 834
+        },
+        {
+          "text": "and",
+          "xmin": 2670,
+          "ymin": 795,
+          "xmax": 2744,
+          "ymax": 834
+        },
+        {
+          "text": "embedded",
+          "xmin": 2772,
+          "ymin": 795,
+          "xmax": 2987,
+          "ymax": 834
+        },
+        {
+          "text": "sensor",
+          "xmin": 3015,
+          "ymin": 811,
+          "xmax": 3148,
+          "ymax": 835
+        },
+        {
+          "text": "environment.",
+          "xmin": 1801,
+          "ymin": 851,
+          "xmax": 2081,
+          "ymax": 889
+        },
+        {
+          "text": "Cloud",
+          "xmin": 2160,
+          "ymin": 1168,
+          "xmax": 2250,
+          "ymax": 1193
+        },
+        {
+          "text": "Services",
+          "xmin": 2139,
+          "ymin": 1208,
+          "xmax": 2270,
+          "ymax": 1231
+        },
+        {
+          "text": "Phones",
+          "xmin": 2617,
+          "ymin": 1186,
+          "xmax": 2733,
+          "ymax": 1209
+        },
+        {
+          "text": "Tablets",
+          "xmin": 2804,
+          "ymin": 1269,
+          "xmax": 2916,
+          "ymax": 1294
+        },
+        {
+          "text": "I",
+          "xmin": 3052,
+          "ymin": 1299,
+          "xmax": 3074,
+          "ymax": 1308
+        },
+        {
+          "text": "Internet",
+          "xmin": 2292,
+          "ymin": 1361,
+          "xmax": 2451,
+          "ymax": 1392
+        },
+        {
+          "text": "|",
+          "xmin": 2974,
+          "ymin": 1329,
+          "xmax": 3032,
+          "ymax": 1396
+        },
+        {
+          "text": "|",
+          "xmin": 3050,
+          "ymin": 1321,
+          "xmax": 3090,
+          "ymax": 1353
+        },
+        {
+          "text": "|",
+          "xmin": 3027,
+          "ymin": 1359,
+          "xmax": 3027,
+          "ymax": 1382
+        },
+        {
+          "text": "Software",
+          "xmin": 152,
+          "ymin": 1406,
+          "xmax": 464,
+          "ymax": 1459
+        },
+        {
+          "text": "Data",
+          "xmin": 494,
+          "ymin": 1407,
+          "xmax": 657,
+          "ymax": 1459
+        },
+        {
+          "text": "Sheet",
+          "xmin": 686,
+          "ymin": 1406,
+          "xmax": 884,
+          "ymax": 1459
+        },
+        {
+          "text": "A",
+          "xmin": 2932,
+          "ymin": 1441,
+          "xmax": 2946,
+          "ymax": 1449
+        },
+        {
+          "text": "Sensor",
+          "xmin": 1893,
+          "ymin": 1505,
+          "xmax": 2004,
+          "ymax": 1527
+        },
+        {
+          "text": "PCs",
+          "xmin": 2917,
+          "ymin": 1478,
+          "xmax": 2983,
+          "ymax": 1511
+        },
+        {
+          "text": "Unison",
+          "xmin": 154,
+          "ymin": 1556,
+          "xmax": 388,
+          "ymax": 1610
+        },
+        {
+          "text": "RTOS",
+          "xmin": 419,
+          "ymin": 1556,
+          "xmax": 619,
+          "ymax": 1609
+        },
+        {
+          "text": "version",
+          "xmin": 645,
+          "ymin": 1556,
+          "xmax": 893,
+          "ymax": 1609
+        },
+        {
+          "text": "5.3",
+          "xmin": 923,
+          "ymin": 1556,
+          "xmax": 1018,
+          "ymax": 1609
+        },
+        {
+          "text": "System",
+          "xmin": 1890,
+          "ymin": 1544,
+          "xmax": 2004,
+          "ymax": 1575
+        },
+        {
+          "text": "Wire",
+          "xmin": 2200,
+          "ymin": 1548,
+          "xmax": 2276,
+          "ymax": 1580
+        },
+        {
+          "text": "Line",
+          "xmin": 2290,
+          "ymin": 1556,
+          "xmax": 2354,
+          "ymax": 1580
+        },
+        {
+          "text": "or",
+          "xmin": 2366,
+          "ymin": 1562,
+          "xmax": 2397,
+          "ymax": 1580
+        },
+        {
+          "text": "Cellular",
+          "xmin": 2409,
+          "ymin": 1552,
+          "xmax": 2528,
+          "ymax": 1579
+        },
+        {
+          "text": "Ultra",
+          "xmin": 152,
+          "ymin": 1650,
+          "xmax": 222,
+          "ymax": 1681
+        },
+        {
+          "text": "tiny",
+          "xmin": 243,
+          "ymin": 1650,
+          "xmax": 297,
+          "ymax": 1689
+        },
+        {
+          "text": "embedded",
+          "xmin": 317,
+          "ymin": 1650,
+          "xmax": 464,
+          "ymax": 1683
+        },
+        {
+          "text": "Linux",
+          "xmin": 488,
+          "ymin": 1649,
+          "xmax": 564,
+          "ymax": 1683
+        },
+        {
+          "text": "TV",
+          "xmin": 572,
+          "ymin": 1647,
+          "xmax": 607,
+          "ymax": 1667
+        },
+        {
+          "text": "or",
+          "xmin": 637,
+          "ymin": 1661,
+          "xmax": 665,
+          "ymax": 1683
+        },
+        {
+          "text": "POSIX",
+          "xmin": 687,
+          "ymin": 1649,
+          "xmax": 768,
+          "ymax": 1681
+        },
+        {
+          "text": "TM",
+          "xmin": 777,
+          "ymin": 1647,
+          "xmax": 813,
+          "ymax": 1667
+        },
+        {
+          "text": "compatible",
+          "xmin": 842,
+          "ymin": 1649,
+          "xmax": 1001,
+          "ymax": 1691
+        },
+        {
+          "text": "RTOS",
+          "xmin": 1024,
+          "ymin": 1649,
+          "xmax": 1090,
+          "ymax": 1681
+        },
+        {
+          "text": "Gateway",
+          "xmin": 2790,
+          "ymin": 1636,
+          "xmax": 2937,
+          "ymax": 1668
+        },
+        {
+          "text": "Sensor",
+          "xmin": 2040,
+          "ymin": 1691,
+          "xmax": 2150,
+          "ymax": 1714
+        },
+        {
+          "text": "System",
+          "xmin": 2037,
+          "ymin": 1731,
+          "xmax": 2149,
+          "ymax": 1757
+        },
+        {
+          "text": "Bluetooth",
+          "xmin": 2380,
+          "ymin": 1744,
+          "xmax": 2507,
+          "ymax": 1765
+        },
+        {
+          "text": "6loWPAN",
+          "xmin": 2543,
+          "ymin": 1744,
+          "xmax": 2664,
+          "ymax": 1765
+        },
+        {
+          "text": "WiF",
+          "xmin": 2745,
+          "ymin": 1744,
+          "xmax": 2801,
+          "ymax": 1762
+        },
+        {
+          "text": "Zigbee",
+          "xmin": 2883,
+          "ymin": 1744,
+          "xmax": 2971,
+          "ymax": 1767
+        },
+        {
+          "text": "Unison",
+          "xmin": 154,
+          "ymin": 1781,
+          "xmax": 387,
+          "ymax": 1835
+        },
+        {
+          "text": "and",
+          "xmin": 416,
+          "ymin": 1782,
+          "xmax": 538,
+          "ymax": 1835
+        },
+        {
+          "text": "Internet",
+          "xmin": 154,
+          "ymin": 1899,
+          "xmax": 439,
+          "ymax": 1952
+        },
+        {
+          "text": "of",
+          "xmin": 465,
+          "ymin": 1899,
+          "xmax": 532,
+          "ymax": 1952
+        },
+        {
+          "text": "Things",
+          "xmin": 552,
+          "ymin": 1898,
+          "xmax": 780,
+          "ymax": 1968
+        },
+        {
+          "text": "(IoT)",
+          "xmin": 808,
+          "ymin": 1898,
+          "xmax": 977,
+          "ymax": 1963
+        },
+        {
+          "text": "or",
+          "xmin": 1005,
+          "ymin": 1915,
+          "xmax": 1076,
+          "ymax": 1950
+        },
+        {
+          "text": "Machine",
+          "xmin": 154,
+          "ymin": 1973,
+          "xmax": 440,
+          "ymax": 2027
+        },
+        {
+          "text": "to",
+          "xmin": 466,
+          "ymin": 1981,
+          "xmax": 536,
+          "ymax": 2026
+        },
+        {
+          "text": "Machine",
+          "xmin": 566,
+          "ymin": 1962,
+          "xmax": 853,
+          "ymax": 2027
+        },
+        {
+          "text": "(M2M",
+          "xmin": 880,
+          "ymin": 1954,
+          "xmax": 1087,
+          "ymax": 2032
+        },
+        {
+          "text": ")",
+          "xmin": 1076,
+          "ymin": 1973,
+          "xmax": 1106,
+          "ymax": 2031
+        },
+        {
+          "text": "Figure",
+          "xmin": 1802,
+          "ymin": 2009,
+          "xmax": 1923,
+          "ymax": 2044
+        },
+        {
+          "text": "1",
+          "xmin": 1955,
+          "ymin": 2010,
+          "xmax": 1967,
+          "ymax": 2034
+        },
+        {
+          "text": "Internet",
+          "xmin": 2019,
+          "ymin": 2009,
+          "xmax": 2157,
+          "ymax": 2039
+        },
+        {
+          "text": "of",
+          "xmin": 2184,
+          "ymin": 2009,
+          "xmax": 2217,
+          "ymax": 2039
+        },
+        {
+          "text": "Thi",
+          "xmin": 2243,
+          "ymin": 2009,
+          "xmax": 2297,
+          "ymax": 2039
+        },
+        {
+          "text": "ings",
+          "xmin": 2293,
+          "ymin": 2010,
+          "xmax": 2364,
+          "ymax": 2047
+        },
+        {
+          "text": "(|oT",
+          "xmin": 2396,
+          "ymin": 2009,
+          "xmax": 2466,
+          "ymax": 2043
+        },
+        {
+          "text": "1",
+          "xmin": 2471,
+          "ymin": 2010,
+          "xmax": 2476,
+          "ymax": 2035
+        },
+        {
+          "text": "and",
+          "xmin": 2508,
+          "ymin": 2010,
+          "xmax": 2573,
+          "ymax": 2039
+        },
+        {
+          "text": "Machine",
+          "xmin": 2605,
+          "ymin": 2009,
+          "xmax": 2756,
+          "ymax": 2039
+        },
+        {
+          "text": "to",
+          "xmin": 2787,
+          "ymin": 2011,
+          "xmax": 2818,
+          "ymax": 2039
+        },
+        {
+          "text": "Machine",
+          "xmin": 2848,
+          "ymin": 2009,
+          "xmax": 3001,
+          "ymax": 2039
+        },
+        {
+          "text": "(",
+          "xmin": 3032,
+          "ymin": 2010,
+          "xmax": 3041,
+          "ymax": 2035
+        },
+        {
+          "text": "M2M",
+          "xmin": 3040,
+          "ymin": 2009,
+          "xmax": 3132,
+          "ymax": 2039
+        },
+        {
+          "text": "I",
+          "xmin": 3139,
+          "ymin": 2010,
+          "xmax": 3144,
+          "ymax": 2038
+        },
+        {
+          "text": "Communication",
+          "xmin": 152,
+          "ymin": 2048,
+          "xmax": 701,
+          "ymax": 2102
+        },
+        {
+          "text": "systems",
+          "xmin": 1801,
+          "ymin": 2061,
+          "xmax": 1950,
+          "ymax": 2095
+        },
+        {
+          "text": "have",
+          "xmin": 1980,
+          "ymin": 2060,
+          "xmax": 2065,
+          "ymax": 2088
+        },
+        {
+          "text": "identical",
+          "xmin": 2096,
+          "ymin": 2059,
+          "xmax": 2243,
+          "ymax": 2088
+        },
+        {
+          "text": "components",
+          "xmin": 2273,
+          "ymin": 2061,
+          "xmax": 2495,
+          "ymax": 2093
+        },
+        {
+          "text": "and",
+          "xmin": 2525,
+          "ymin": 2060,
+          "xmax": 2588,
+          "ymax": 2088
+        },
+        {
+          "text": "system",
+          "xmin": 2620,
+          "ymin": 2061,
+          "xmax": 2746,
+          "ymax": 2097
+        },
+        {
+          "text": "architectures",
+          "xmin": 2777,
+          "ymin": 2059,
+          "xmax": 3011,
+          "ymax": 2088
+        },
+        {
+          "text": "today",
+          "xmin": 3040,
+          "ymin": 2060,
+          "xmax": 3142,
+          "ymax": 2094
+        },
+        {
+          "text": "They",
+          "xmin": 1800,
+          "ymin": 2109,
+          "xmax": 1891,
+          "ymax": 2145
+        },
+        {
+          "text": "integrate",
+          "xmin": 1907,
+          "ymin": 2110,
+          "xmax": 2062,
+          "ymax": 2145
+        },
+        {
+          "text": "sensors",
+          "xmin": 2081,
+          "ymin": 2117,
+          "xmax": 2222,
+          "ymax": 2140
+        },
+        {
+          "text": "|",
+          "xmin": 2224,
+          "ymin": 2132,
+          "xmax": 2231,
+          "ymax": 2136
+        },
+        {
+          "text": "communications",
+          "xmin": 2251,
+          "ymin": 2109,
+          "xmax": 2550,
+          "ymax": 2140
+        },
+        {
+          "text": "and",
+          "xmin": 2565,
+          "ymin": 2110,
+          "xmax": 2627,
+          "ymax": 2140
+        },
+        {
+          "text": "backend",
+          "xmin": 2648,
+          "ymin": 2109,
+          "xmax": 2800,
+          "ymax": 2140
+        },
+        {
+          "text": "cloud",
+          "xmin": 2818,
+          "ymin": 2109,
+          "xmax": 2910,
+          "ymax": 2140
+        },
+        {
+          "text": "storage",
+          "xmin": 2930,
+          "ymin": 2111,
+          "xmax": 3065,
+          "ymax": 2145
+        },
+        {
+          "text": "and",
+          "xmin": 3081,
+          "ymin": 2109,
+          "xmax": 3145,
+          "ymax": 2140
+        },
+        {
+          "text": "analysis.",
+          "xmin": 1801,
+          "ymin": 2159,
+          "xmax": 1959,
+          "ymax": 2194
+        },
+        {
+          "text": "www.rowebots.com",
+          "xmin": 149,
+          "ymin": 2407,
+          "xmax": 588,
+          "ymax": 2441
+        },
+        {
+          "text": "Rowebots",
+          "xmin": 2590,
+          "ymin": 2406,
+          "xmax": 2738,
+          "ymax": 2431
+        },
+        {
+          "text": "Limited",
+          "xmin": 2753,
+          "ymin": 2406,
+          "xmax": 2862,
+          "ymax": 2431
+        },
+        {
+          "text": "C",
+          "xmin": 2877,
+          "ymin": 2404,
+          "xmax": 2899,
+          "ymax": 2427
+        },
+        {
+          "text": "2016.",
+          "xmin": 2918,
+          "ymin": 2405,
+          "xmax": 2998,
+          "ymax": 2431
+        },
+        {
+          "text": "page",
+          "xmin": 3014,
+          "ymin": 2414,
+          "xmax": 3081,
+          "ymax": 2436
+        },
+        {
+          "text": "|",
+          "xmin": 3113,
+          "ymin": 2407,
+          "xmax": 3118,
+          "ymax": 2422
+        }
+      ],
+      "raw_text": "Internet of Things (IoT | or Machine to Machine ( M2M | Communications Architecture IoT and M2M systems have evolved to the thing. point where they are really the same | In the early communication days, M2M rcally meant that the occurred over a cell modem network. IoT was originally thought of as a solution for small devices and sensors to save data in the cloud | Today these have expanded and merged as a single environment O across a protocols, involving communications RoweBots network using a variety of and a cloud based L environment for i t d capturing and i storing data and tools to build | m | e these environments in both the cloud and embedded sensor environment. Cloud Services Phones Tablets I Internet | | | Software Data Sheet A Sensor PCs Unison RTOS version 5.3 System Wire Line or Cellular Ultra tiny embedded Linux TV or POSIX TM compatible RTOS Gateway Sensor System Bluetooth 6loWPAN WiF Zigbee Unison and Internet of Things (IoT) or Machine to Machine (M2M ) Figure 1 Internet of Thi ings (|oT 1 and Machine to Machine ( M2M I Communication systems have identical components and system architectures today They integrate sensors | communications and backend cloud storage and analysis. www.rowebots.com Rowebots Limited C 2016. page | "
+    },
+    {
+      "page": 1,
+      "image_url": "https://nnts.imgix.net/uploadedfiles/rawocr/68607257-7ede-44cd-bbf8-03a44ff7b6b6-2.jpeg?auto=compress&expires=1700014722&or=0&s=e697802de847a6077b9caf54bcc8f27f",
+      "size": {
+        "width": 3300,
+        "height": 2550
+      },
+      "words": [
+        {
+          "text": "Key",
+          "xmin": 165,
+          "ymin": 163,
+          "xmax": 234,
+          "ymax": 214
+        },
+        {
+          "text": "Features",
+          "xmin": 277,
+          "ymin": 163,
+          "xmax": 469,
+          "ymax": 201
+        },
+        {
+          "text": "Low",
+          "xmin": 1811,
+          "ymin": 167,
+          "xmax": 1889,
+          "ymax": 208
+        },
+        {
+          "text": "Power",
+          "xmin": 1932,
+          "ymin": 167,
+          "xmax": 2062,
+          "ymax": 208
+        },
+        {
+          "text": "With",
+          "xmin": 151,
+          "ymin": 285,
+          "xmax": 254,
+          "ymax": 323
+        },
+        {
+          "text": "a",
+          "xmin": 268,
+          "ymin": 301,
+          "xmax": 285,
+          "ymax": 323
+        },
+        {
+          "text": "general",
+          "xmin": 302,
+          "ymin": 285,
+          "xmax": 452,
+          "ymax": 337
+        },
+        {
+          "text": "substantially.",
+          "xmin": 385,
+          "ymin": 330,
+          "xmax": 657,
+          "ymax": 386
+        },
+        {
+          "text": "agreement",
+          "xmin": 466,
+          "ymin": 298,
+          "xmax": 683,
+          "ymax": 336
+        },
+        {
+          "text": "that",
+          "xmin": 695,
+          "ymin": 285,
+          "xmax": 777,
+          "ymax": 325
+        },
+        {
+          "text": "the",
+          "xmin": 789,
+          "ymin": 285,
+          "xmax": 853,
+          "ymax": 323
+        },
+        {
+          "text": "number",
+          "xmin": 866,
+          "ymin": 285,
+          "xmax": 1032,
+          "ymax": 325
+        },
+        {
+          "text": "of",
+          "xmin": 1044,
+          "ymin": 285,
+          "xmax": 1087,
+          "ymax": 323
+        },
+        {
+          "text": "sensors",
+          "xmin": 1099,
+          "ymin": 301,
+          "xmax": 1250,
+          "ymax": 325
+        },
+        {
+          "text": "on",
+          "xmin": 1266,
+          "ymin": 301,
+          "xmax": 1315,
+          "ymax": 325
+        },
+        {
+          "text": "systems",
+          "xmin": 1332,
+          "ymin": 298,
+          "xmax": 1496,
+          "ymax": 334
+        },
+        {
+          "text": "Given",
+          "xmin": 1798,
+          "ymin": 283,
+          "xmax": 1925,
+          "ymax": 323
+        },
+        {
+          "text": "the",
+          "xmin": 1948,
+          "ymin": 282,
+          "xmax": 2011,
+          "ymax": 321
+        },
+        {
+          "text": "shear",
+          "xmin": 2034,
+          "ymin": 282,
+          "xmax": 2144,
+          "ymax": 322
+        },
+        {
+          "text": "magnitude",
+          "xmin": 2166,
+          "ymin": 282,
+          "xmax": 2387,
+          "ymax": 334
+        },
+        {
+          "text": "of",
+          "xmin": 2409,
+          "ymin": 281,
+          "xmax": 2452,
+          "ymax": 321
+        },
+        {
+          "text": "the",
+          "xmin": 2474,
+          "ymin": 282,
+          "xmax": 2537,
+          "ymax": 321
+        },
+        {
+          "text": "number",
+          "xmin": 2559,
+          "ymin": 282,
+          "xmax": 2725,
+          "ymax": 322
+        },
+        {
+          "text": "of",
+          "xmin": 2746,
+          "ymin": 281,
+          "xmax": 2790,
+          "ymax": 321
+        },
+        {
+          "text": "sensors,",
+          "xmin": 2810,
+          "ymin": 298,
+          "xmax": 2975,
+          "ymax": 328
+        },
+        {
+          "text": "battery",
+          "xmin": 2999,
+          "ymin": 282,
+          "xmax": 3148,
+          "ymax": 332
+        },
+        {
+          "text": "will",
+          "xmin": 149,
+          "ymin": 340,
+          "xmax": 229,
+          "ymax": 379
+        },
+        {
+          "text": "grow",
+          "xmin": 253,
+          "ymin": 356,
+          "xmax": 356,
+          "ymax": 389
+        },
+        {
+          "text": "The",
+          "xmin": 722,
+          "ymin": 340,
+          "xmax": 804,
+          "ymax": 380
+        },
+        {
+          "text": "main",
+          "xmin": 828,
+          "ymin": 342,
+          "xmax": 929,
+          "ymax": 380
+        },
+        {
+          "text": "requirements",
+          "xmin": 953,
+          "ymin": 341,
+          "xmax": 1231,
+          "ymax": 390
+        },
+        {
+          "text": "of",
+          "xmin": 1256,
+          "ymin": 340,
+          "xmax": 1299,
+          "ymax": 380
+        },
+        {
+          "text": "IoT",
+          "xmin": 1320,
+          "ymin": 334,
+          "xmax": 1397,
+          "ymax": 380
+        },
+        {
+          "text": "and",
+          "xmin": 1421,
+          "ymin": 340,
+          "xmax": 1494,
+          "ymax": 380
+        },
+        {
+          "text": "replacement",
+          "xmin": 1796,
+          "ymin": 336,
+          "xmax": 2054,
+          "ymax": 388
+        },
+        {
+          "text": "is",
+          "xmin": 2067,
+          "ymin": 337,
+          "xmax": 2098,
+          "ymax": 376
+        },
+        {
+          "text": "a",
+          "xmin": 2116,
+          "ymin": 353,
+          "xmax": 2131,
+          "ymax": 372
+        },
+        {
+          "text": "employed",
+          "xmin": 1798,
+          "ymin": 383,
+          "xmax": 2006,
+          "ymax": 447
+        },
+        {
+          "text": "big",
+          "xmin": 2150,
+          "ymin": 336,
+          "xmax": 2213,
+          "ymax": 388
+        },
+        {
+          "text": "issue",
+          "xmin": 2228,
+          "ymin": 339,
+          "xmax": 2328,
+          "ymax": 376
+        },
+        {
+          "text": "|",
+          "xmin": 2334,
+          "ymin": 368,
+          "xmax": 2337,
+          "ymax": 370
+        },
+        {
+          "text": "Energy",
+          "xmin": 2370,
+          "ymin": 339,
+          "xmax": 2521,
+          "ymax": 388
+        },
+        {
+          "text": "harvesting",
+          "xmin": 2537,
+          "ymin": 336,
+          "xmax": 2754,
+          "ymax": 388
+        },
+        {
+          "text": "schemes",
+          "xmin": 2771,
+          "ymin": 336,
+          "xmax": 2942,
+          "ymax": 376
+        },
+        {
+          "text": "are",
+          "xmin": 2958,
+          "ymin": 352,
+          "xmax": 3018,
+          "ymax": 376
+        },
+        {
+          "text": "M2M",
+          "xmin": 150,
+          "ymin": 389,
+          "xmax": 264,
+          "ymax": 432
+        },
+        {
+          "text": "systems",
+          "xmin": 284,
+          "ymin": 407,
+          "xmax": 446,
+          "ymax": 441
+        },
+        {
+          "text": "are",
+          "xmin": 466,
+          "ymin": 410,
+          "xmax": 523,
+          "ymax": 433
+        },
+        {
+          "text": "to",
+          "xmin": 2023,
+          "ymin": 404,
+          "xmax": 2063,
+          "ymax": 431
+        },
+        {
+          "text": "eliminate",
+          "xmin": 2081,
+          "ymin": 391,
+          "xmax": 2272,
+          "ymax": 431
+        },
+        {
+          "text": "or",
+          "xmin": 2484,
+          "ymin": 407,
+          "xmax": 2529,
+          "ymax": 430
+        },
+        {
+          "text": "them",
+          "xmin": 2734,
+          "ymin": 384,
+          "xmax": 2842,
+          "ymax": 431
+        },
+        {
+          "text": "being",
+          "xmin": 3035,
+          "ymin": 324,
+          "xmax": 3149,
+          "ymax": 388
+        },
+        {
+          "text": "batteries",
+          "xmin": 2291,
+          "ymin": 391,
+          "xmax": 2466,
+          "ymax": 431
+        },
+        {
+          "text": "recharge",
+          "xmin": 2544,
+          "ymin": 391,
+          "xmax": 2723,
+          "ymax": 443
+        },
+        {
+          "text": "automatically",
+          "xmin": 2862,
+          "ymin": 379,
+          "xmax": 3149,
+          "ymax": 440
+        },
+        {
+          "text": "-",
+          "xmin": 213,
+          "ymin": 492,
+          "xmax": 227,
+          "ymax": 503
+        },
+        {
+          "text": "small",
+          "xmin": 376,
+          "ymin": 480,
+          "xmax": 483,
+          "ymax": 519
+        },
+        {
+          "text": "and",
+          "xmin": 501,
+          "ymin": 480,
+          "xmax": 573,
+          "ymax": 519
+        },
+        {
+          "text": "over",
+          "xmin": 1797,
+          "ymin": 461,
+          "xmax": 1890,
+          "ymax": 484
+        },
+        {
+          "text": "the",
+          "xmin": 1906,
+          "ymin": 438,
+          "xmax": 1969,
+          "ymax": 483
+        },
+        {
+          "text": "life",
+          "xmin": 1986,
+          "ymin": 445,
+          "xmax": 2050,
+          "ymax": 483
+        },
+        {
+          "text": "inexpensive",
+          "xmin": 590,
+          "ymin": 481,
+          "xmax": 835,
+          "ymax": 530
+        },
+        {
+          "text": "of",
+          "xmin": 2066,
+          "ymin": 445,
+          "xmax": 2110,
+          "ymax": 485
+        },
+        {
+          "text": "the",
+          "xmin": 2125,
+          "ymin": 445,
+          "xmax": 2188,
+          "ymax": 485
+        },
+        {
+          "text": "device.",
+          "xmin": 2205,
+          "ymin": 445,
+          "xmax": 2343,
+          "ymax": 485
+        },
+        {
+          "text": "Many",
+          "xmin": 219,
+          "ymin": 483,
+          "xmax": 359,
+          "ymax": 531
+        },
+        {
+          "text": "sensor",
+          "xmin": 852,
+          "ymin": 496,
+          "xmax": 985,
+          "ymax": 518
+        },
+        {
+          "text": "Low",
+          "xmin": 213,
+          "ymin": 570,
+          "xmax": 331,
+          "ymax": 607
+        },
+        {
+          "text": "power",
+          "xmin": 348,
+          "ymin": 583,
+          "xmax": 483,
+          "ymax": 617
+        },
+        {
+          "text": "sensors",
+          "xmin": 500,
+          "ymin": 583,
+          "xmax": 652,
+          "ymax": 606
+        },
+        {
+          "text": "for",
+          "xmin": 668,
+          "ymin": 566,
+          "xmax": 731,
+          "ymax": 607
+        },
+        {
+          "text": "many",
+          "xmin": 747,
+          "ymin": 583,
+          "xmax": 862,
+          "ymax": 615
+        },
+        {
+          "text": "applications",
+          "xmin": 880,
+          "ymin": 567,
+          "xmax": 1132,
+          "ymax": 619
+        },
+        {
+          "text": "Wireless",
+          "xmin": 1809,
+          "ymin": 574,
+          "xmax": 2005,
+          "ymax": 612
+        },
+        {
+          "text": "Networking",
+          "xmin": 2038,
+          "ymin": 560,
+          "xmax": 2311,
+          "ymax": 626
+        },
+        {
+          "text": "a",
+          "xmin": 213,
+          "ymin": 661,
+          "xmax": 227,
+          "ymax": 673
+        },
+        {
+          "text": "Wireless",
+          "xmin": 220,
+          "ymin": 650,
+          "xmax": 410,
+          "ymax": 690
+        },
+        {
+          "text": "networking",
+          "xmin": 427,
+          "ymin": 650,
+          "xmax": 673,
+          "ymax": 700
+        },
+        {
+          "text": "With",
+          "xmin": 1797,
+          "ymin": 679,
+          "xmax": 1899,
+          "ymax": 718
+        },
+        {
+          "text": "many",
+          "xmin": 1920,
+          "ymin": 695,
+          "xmax": 2038,
+          "ymax": 730
+        },
+        {
+          "text": "small",
+          "xmin": 2056,
+          "ymin": 679,
+          "xmax": 2165,
+          "ymax": 719
+        },
+        {
+          "text": "sensors",
+          "xmin": 2183,
+          "ymin": 695,
+          "xmax": 2335,
+          "ymax": 719
+        },
+        {
+          "text": ",",
+          "xmin": 2334,
+          "ymin": 699,
+          "xmax": 2346,
+          "ymax": 722
+        },
+        {
+          "text": "the",
+          "xmin": 2367,
+          "ymin": 679,
+          "xmax": 2431,
+          "ymax": 718
+        },
+        {
+          "text": "cost",
+          "xmin": 2450,
+          "ymin": 692,
+          "xmax": 2534,
+          "ymax": 719
+        },
+        {
+          "text": "and",
+          "xmin": 2553,
+          "ymin": 679,
+          "xmax": 2626,
+          "ymax": 718
+        },
+        {
+          "text": "convenience",
+          "xmin": 2646,
+          "ymin": 681,
+          "xmax": 2903,
+          "ymax": 719
+        },
+        {
+          "text": "of",
+          "xmin": 2924,
+          "ymin": 679,
+          "xmax": 2966,
+          "ymax": 718
+        },
+        {
+          "text": ".",
+          "xmin": 213,
+          "ymin": 739,
+          "xmax": 238,
+          "ymax": 762
+        },
+        {
+          "text": "making",
+          "xmin": 2236,
+          "ymin": 721,
+          "xmax": 2391,
+          "ymax": 785
+        },
+        {
+          "text": "systems",
+          "xmin": 2984,
+          "ymin": 692,
+          "xmax": 3148,
+          "ymax": 727
+        },
+        {
+          "text": "Internet",
+          "xmin": 236,
+          "ymin": 739,
+          "xmax": 406,
+          "ymax": 776
+        },
+        {
+          "text": "communications",
+          "xmin": 422,
+          "ymin": 737,
+          "xmax": 771,
+          "ymax": 776
+        },
+        {
+          "text": "can",
+          "xmin": 1797,
+          "ymin": 749,
+          "xmax": 1866,
+          "ymax": 773
+        },
+        {
+          "text": "be",
+          "xmin": 1886,
+          "ymin": 733,
+          "xmax": 1932,
+          "ymax": 772
+        },
+        {
+          "text": "enhanced",
+          "xmin": 1950,
+          "ymin": 727,
+          "xmax": 2145,
+          "ymax": 773
+        },
+        {
+          "text": "by",
+          "xmin": 2166,
+          "ymin": 733,
+          "xmax": 2221,
+          "ymax": 790
+        },
+        {
+          "text": "the",
+          "xmin": 2409,
+          "ymin": 733,
+          "xmax": 2472,
+          "ymax": 772
+        },
+        {
+          "text": "devices",
+          "xmin": 2491,
+          "ymin": 733,
+          "xmax": 2640,
+          "ymax": 772
+        },
+        {
+          "text": "wireless.",
+          "xmin": 2657,
+          "ymin": 733,
+          "xmax": 2836,
+          "ymax": 773
+        },
+        {
+          "text": "For",
+          "xmin": 2871,
+          "ymin": 736,
+          "xmax": 2946,
+          "ymax": 773
+        },
+        {
+          "text": "Cloud",
+          "xmin": 213,
+          "ymin": 819,
+          "xmax": 367,
+          "ymax": 859
+        },
+        {
+          "text": "based",
+          "xmin": 387,
+          "ymin": 819,
+          "xmax": 501,
+          "ymax": 859
+        },
+        {
+          "text": "services",
+          "xmin": 519,
+          "ymin": 821,
+          "xmax": 680,
+          "ymax": 859
+        },
+        {
+          "text": "which",
+          "xmin": 696,
+          "ymin": 819,
+          "xmax": 824,
+          "ymax": 859
+        },
+        {
+          "text": "require",
+          "xmin": 841,
+          "ymin": 821,
+          "xmax": 991,
+          "ymax": 867
+        },
+        {
+          "text": "integration",
+          "xmin": 1008,
+          "ymin": 820,
+          "xmax": 1236,
+          "ymax": 870
+        },
+        {
+          "text": "with",
+          "xmin": 1253,
+          "ymin": 819,
+          "xmax": 1347,
+          "ymax": 859
+        },
+        {
+          "text": "front",
+          "xmin": 1365,
+          "ymin": 819,
+          "xmax": 1472,
+          "ymax": 859
+        },
+        {
+          "text": "in",
+          "xmin": 1796,
+          "ymin": 790,
+          "xmax": 1835,
+          "ymax": 827
+        },
+        {
+          "text": "large",
+          "xmin": 1873,
+          "ymin": 788,
+          "xmax": 1978,
+          "ymax": 843
+        },
+        {
+          "text": "industrial",
+          "xmin": 2014,
+          "ymin": 781,
+          "xmax": 2223,
+          "ymax": 828
+        },
+        {
+          "text": "installations",
+          "xmin": 2260,
+          "ymin": 783,
+          "xmax": 2524,
+          "ymax": 828
+        },
+        {
+          "text": "S,",
+          "xmin": 2522,
+          "ymin": 805,
+          "xmax": 2537,
+          "ymax": 830
+        },
+        {
+          "text": "wireless",
+          "xmin": 2574,
+          "ymin": 788,
+          "xmax": 2748,
+          "ymax": 828
+        },
+        {
+          "text": "networking",
+          "xmin": 2785,
+          "ymin": 773,
+          "xmax": 3041,
+          "ymax": 840
+        },
+        {
+          "text": "example,",
+          "xmin": 2965,
+          "ymin": 728,
+          "xmax": 3147,
+          "ymax": 785
+        },
+        {
+          "text": "can",
+          "xmin": 3077,
+          "ymin": 804,
+          "xmax": 3145,
+          "ymax": 827
+        },
+        {
+          "text": "eliminate",
+          "xmin": 1797,
+          "ymin": 837,
+          "xmax": 1989,
+          "ymax": 882
+        },
+        {
+          "text": "end",
+          "xmin": 241,
+          "ymin": 881,
+          "xmax": 313,
+          "ymax": 921
+        },
+        {
+          "text": "significant",
+          "xmin": 2018,
+          "ymin": 841,
+          "xmax": 2235,
+          "ymax": 896
+        },
+        {
+          "text": "cabling",
+          "xmin": 2264,
+          "ymin": 842,
+          "xmax": 2412,
+          "ymax": 894
+        },
+        {
+          "text": "requirements",
+          "xmin": 2441,
+          "ymin": 844,
+          "xmax": 2717,
+          "ymax": 889
+        },
+        {
+          "text": "during",
+          "xmin": 2747,
+          "ymin": 842,
+          "xmax": 2887,
+          "ymax": 894
+        },
+        {
+          "text": "installation",
+          "xmin": 2914,
+          "ymin": 837,
+          "xmax": 3146,
+          "ymax": 882
+        },
+        {
+          "text": "sensors",
+          "xmin": 333,
+          "ymin": 897,
+          "xmax": 484,
+          "ymax": 920
+        },
+        {
+          "text": "and",
+          "xmin": 1798,
+          "ymin": 896,
+          "xmax": 1872,
+          "ymax": 936
+        },
+        {
+          "text": "lead",
+          "xmin": 1888,
+          "ymin": 896,
+          "xmax": 1972,
+          "ymax": 936
+        },
+        {
+          "text": "to",
+          "xmin": 1989,
+          "ymin": 909,
+          "xmax": 2029,
+          "ymax": 936
+        },
+        {
+          "text": "adhoc",
+          "xmin": 2047,
+          "ymin": 887,
+          "xmax": 2172,
+          "ymax": 936
+        },
+        {
+          "text": "network",
+          "xmin": 2188,
+          "ymin": 896,
+          "xmax": 2366,
+          "ymax": 936
+        },
+        {
+          "text": "configuration",
+          "xmin": 2383,
+          "ymin": 886,
+          "xmax": 2676,
+          "ymax": 948
+        },
+        {
+          "text": "oSmart",
+          "xmin": 213,
+          "ymin": 970,
+          "xmax": 358,
+          "ymax": 1008
+        },
+        {
+          "text": "phone,",
+          "xmin": 376,
+          "ymin": 968,
+          "xmax": 516,
+          "ymax": 1017
+        },
+        {
+          "text": "tablet",
+          "xmin": 534,
+          "ymin": 968,
+          "xmax": 652,
+          "ymax": 1008
+        },
+        {
+          "text": "and",
+          "xmin": 669,
+          "ymin": 968,
+          "xmax": 742,
+          "ymax": 1008
+        },
+        {
+          "text": "computer",
+          "xmin": 759,
+          "ymin": 981,
+          "xmax": 962,
+          "ymax": 1018
+        },
+        {
+          "text": "access",
+          "xmin": 979,
+          "ymin": 984,
+          "xmax": 1102,
+          "ymax": 1008
+        },
+        {
+          "text": "to",
+          "xmin": 1120,
+          "ymin": 981,
+          "xmax": 1157,
+          "ymax": 1008
+        },
+        {
+          "text": "database",
+          "xmin": 1179,
+          "ymin": 968,
+          "xmax": 1355,
+          "ymax": 1008
+        },
+        {
+          "text": "System",
+          "xmin": 213,
+          "ymin": 1053,
+          "xmax": 383,
+          "ymax": 1103
+        },
+        {
+          "text": "security",
+          "xmin": 403,
+          "ymin": 1053,
+          "xmax": 569,
+          "ymax": 1100
+        },
+        {
+          "text": "Internet",
+          "xmin": 1811,
+          "ymin": 1026,
+          "xmax": 2002,
+          "ymax": 1066
+        },
+        {
+          "text": "Communications",
+          "xmin": 2042,
+          "ymin": 1025,
+          "xmax": 2421,
+          "ymax": 1066
+        },
+        {
+          "text": "With",
+          "xmin": 1797,
+          "ymin": 1130,
+          "xmax": 1905,
+          "ymax": 1170
+        },
+        {
+          "text": "standardized",
+          "xmin": 1941,
+          "ymin": 1130,
+          "xmax": 2221,
+          "ymax": 1170
+        },
+        {
+          "text": "communications",
+          "xmin": 2258,
+          "ymin": 1131,
+          "xmax": 2620,
+          "ymax": 1170
+        },
+        {
+          "text": "protocols",
+          "xmin": 2656,
+          "ymin": 1130,
+          "xmax": 2864,
+          "ymax": 1182
+        },
+        {
+          "text": "offered",
+          "xmin": 2902,
+          "ymin": 1129,
+          "xmax": 3056,
+          "ymax": 1169
+        },
+        {
+          "text": "by",
+          "xmin": 3095,
+          "ymin": 1130,
+          "xmax": 3148,
+          "ymax": 1181
+        },
+        {
+          "text": "These",
+          "xmin": 150,
+          "ymin": 1199,
+          "xmax": 273,
+          "ymax": 1239
+        },
+        {
+          "text": "key",
+          "xmin": 292,
+          "ymin": 1199,
+          "xmax": 367,
+          "ymax": 1251
+        },
+        {
+          "text": "requirements",
+          "xmin": 384,
+          "ymin": 1200,
+          "xmax": 662,
+          "ymax": 1249
+        },
+        {
+          "text": "drive",
+          "xmin": 697,
+          "ymin": 1199,
+          "xmax": 802,
+          "ymax": 1239
+        },
+        {
+          "text": "the",
+          "xmin": 821,
+          "ymin": 1199,
+          "xmax": 885,
+          "ymax": 1239
+        },
+        {
+          "text": "implementation",
+          "xmin": 903,
+          "ymin": 1199,
+          "xmax": 1236,
+          "ymax": 1249
+        },
+        {
+          "text": "of",
+          "xmin": 1256,
+          "ymin": 1198,
+          "xmax": 1299,
+          "ymax": 1239
+        },
+        {
+          "text": "software",
+          "xmin": 1316,
+          "ymin": 1198,
+          "xmax": 1496,
+          "ymax": 1239
+        },
+        {
+          "text": "conformance",
+          "xmin": 1797,
+          "ymin": 1184,
+          "xmax": 2080,
+          "ymax": 1224
+        },
+        {
+          "text": "to",
+          "xmin": 2132,
+          "ymin": 1198,
+          "xmax": 2173,
+          "ymax": 1224
+        },
+        {
+          "text": "the",
+          "xmin": 2224,
+          "ymin": 1185,
+          "xmax": 2290,
+          "ymax": 1225
+        },
+        {
+          "text": "broad",
+          "xmin": 2341,
+          "ymin": 1185,
+          "xmax": 2463,
+          "ymax": 1225
+        },
+        {
+          "text": "set",
+          "xmin": 2516,
+          "ymin": 1198,
+          "xmax": 2573,
+          "ymax": 1224
+        },
+        {
+          "text": "of",
+          "xmin": 2623,
+          "ymin": 1180,
+          "xmax": 2669,
+          "ymax": 1223
+        },
+        {
+          "text": "W3",
+          "xmin": 2715,
+          "ymin": 1188,
+          "xmax": 2785,
+          "ymax": 1223
+        },
+        {
+          "text": "specifications",
+          "xmin": 2838,
+          "ymin": 1173,
+          "xmax": 3134,
+          "ymax": 1237
+        },
+        {
+          "text": "|",
+          "xmin": 3139,
+          "ymin": 1218,
+          "xmax": 3141,
+          "ymax": 1223
+        },
+        {
+          "text": "modules",
+          "xmin": 151,
+          "ymin": 1253,
+          "xmax": 328,
+          "ymax": 1293
+        },
+        {
+          "text": "and",
+          "xmin": 343,
+          "ymin": 1245,
+          "xmax": 419,
+          "ymax": 1293
+        },
+        {
+          "text": "services",
+          "xmin": 438,
+          "ymin": 1254,
+          "xmax": 597,
+          "ymax": 1293
+        },
+        {
+          "text": "provided",
+          "xmin": 614,
+          "ymin": 1253,
+          "xmax": 805,
+          "ymax": 1304
+        },
+        {
+          "text": "by",
+          "xmin": 823,
+          "ymin": 1253,
+          "xmax": 876,
+          "ymax": 1305
+        },
+        {
+          "text": "RoweBots",
+          "xmin": 892,
+          "ymin": 1247,
+          "xmax": 1111,
+          "ymax": 1293
+        },
+        {
+          "text": "and",
+          "xmin": 1128,
+          "ymin": 1253,
+          "xmax": 1200,
+          "ymax": 1293
+        },
+        {
+          "text": "lead",
+          "xmin": 1220,
+          "ymin": 1253,
+          "xmax": 1303,
+          "ymax": 1293
+        },
+        {
+          "text": "to",
+          "xmin": 1321,
+          "ymin": 1266,
+          "xmax": 1358,
+          "ymax": 1291
+        },
+        {
+          "text": "many",
+          "xmin": 1380,
+          "ymin": 1269,
+          "xmax": 1496,
+          "ymax": 1303
+        },
+        {
+          "text": "interoperability",
+          "xmin": 1796,
+          "ymin": 1239,
+          "xmax": 2128,
+          "ymax": 1292
+        },
+        {
+          "text": "of",
+          "xmin": 2144,
+          "ymin": 1238,
+          "xmax": 2187,
+          "ymax": 1279
+        },
+        {
+          "text": "systems",
+          "xmin": 2199,
+          "ymin": 1252,
+          "xmax": 2361,
+          "ymax": 1286
+        },
+        {
+          "text": "is",
+          "xmin": 2377,
+          "ymin": 1240,
+          "xmax": 2407,
+          "ymax": 1279
+        },
+        {
+          "text": "substantially",
+          "xmin": 2423,
+          "ymin": 1239,
+          "xmax": 2691,
+          "ymax": 1288
+        },
+        {
+          "text": "enhanced.",
+          "xmin": 2704,
+          "ymin": 1232,
+          "xmax": 2912,
+          "ymax": 1279
+        },
+        {
+          "text": "RoweBots",
+          "xmin": 2929,
+          "ymin": 1242,
+          "xmax": 3148,
+          "ymax": 1279
+        },
+        {
+          "text": "other",
+          "xmin": 152,
+          "ymin": 1307,
+          "xmax": 261,
+          "ymax": 1347
+        },
+        {
+          "text": "requirements.",
+          "xmin": 278,
+          "ymin": 1309,
+          "xmax": 567,
+          "ymax": 1353
+        },
+        {
+          "text": "focuses",
+          "xmin": 1796,
+          "ymin": 1286,
+          "xmax": 1950,
+          "ymax": 1333
+        },
+        {
+          "text": "on",
+          "xmin": 1966,
+          "ymin": 1309,
+          "xmax": 2016,
+          "ymax": 1333
+        },
+        {
+          "text": "industry",
+          "xmin": 2034,
+          "ymin": 1282,
+          "xmax": 2212,
+          "ymax": 1343
+        },
+        {
+          "text": "standards",
+          "xmin": 2222,
+          "ymin": 1286,
+          "xmax": 2426,
+          "ymax": 1333
+        },
+        {
+          "text": "in",
+          "xmin": 2442,
+          "ymin": 1294,
+          "xmax": 2481,
+          "ymax": 1332
+        },
+        {
+          "text": "all",
+          "xmin": 2499,
+          "ymin": 1293,
+          "xmax": 2545,
+          "ymax": 1333
+        },
+        {
+          "text": "areas",
+          "xmin": 2561,
+          "ymin": 1309,
+          "xmax": 2663,
+          "ymax": 1333
+        },
+        {
+          "text": "to",
+          "xmin": 2679,
+          "ymin": 1306,
+          "xmax": 2717,
+          "ymax": 1333
+        },
+        {
+          "text": "ensure",
+          "xmin": 2737,
+          "ymin": 1309,
+          "xmax": 2872,
+          "ymax": 1333
+        },
+        {
+          "text": "that",
+          "xmin": 2888,
+          "ymin": 1293,
+          "xmax": 2970,
+          "ymax": 1333
+        },
+        {
+          "text": "systems",
+          "xmin": 2984,
+          "ymin": 1306,
+          "xmax": 3148,
+          "ymax": 1339
+        },
+        {
+          "text": "will",
+          "xmin": 1795,
+          "ymin": 1347,
+          "xmax": 1877,
+          "ymax": 1387
+        },
+        {
+          "text": "be",
+          "xmin": 1893,
+          "ymin": 1347,
+          "xmax": 1939,
+          "ymax": 1387
+        },
+        {
+          "text": "easily",
+          "xmin": 1956,
+          "ymin": 1347,
+          "xmax": 2071,
+          "ymax": 1396
+        },
+        {
+          "text": "integrated",
+          "xmin": 2089,
+          "ymin": 1340,
+          "xmax": 2299,
+          "ymax": 1398
+        },
+        {
+          "text": "and",
+          "xmin": 2316,
+          "ymin": 1347,
+          "xmax": 2390,
+          "ymax": 1387
+        },
+        {
+          "text": "supported",
+          "xmin": 2408,
+          "ymin": 1347,
+          "xmax": 2622,
+          "ymax": 1399
+        },
+        {
+          "text": "over",
+          "xmin": 2638,
+          "ymin": 1363,
+          "xmax": 2730,
+          "ymax": 1387
+        },
+        {
+          "text": "time.",
+          "xmin": 2747,
+          "ymin": 1348,
+          "xmax": 2845,
+          "ymax": 1387
+        },
+        {
+          "text": "Scalability",
+          "xmin": 164,
+          "ymin": 1491,
+          "xmax": 413,
+          "ymax": 1541
+        },
+        {
+          "text": "Cloud",
+          "xmin": 1810,
+          "ymin": 1482,
+          "xmax": 1932,
+          "ymax": 1522
+        },
+        {
+          "text": "Based",
+          "xmin": 1976,
+          "ymin": 1482,
+          "xmax": 2101,
+          "ymax": 1523
+        },
+        {
+          "text": "Services",
+          "xmin": 2144,
+          "ymin": 1482,
+          "xmax": 2329,
+          "ymax": 1523
+        },
+        {
+          "text": "With",
+          "xmin": 151,
+          "ymin": 1608,
+          "xmax": 254,
+          "ymax": 1648
+        },
+        {
+          "text": "the",
+          "xmin": 277,
+          "ymin": 1608,
+          "xmax": 340,
+          "ymax": 1648
+        },
+        {
+          "text": "number",
+          "xmin": 361,
+          "ymin": 1608,
+          "xmax": 526,
+          "ymax": 1648
+        },
+        {
+          "text": "of",
+          "xmin": 548,
+          "ymin": 1608,
+          "xmax": 591,
+          "ymax": 1648
+        },
+        {
+          "text": "phones",
+          "xmin": 302,
+          "ymin": 1648,
+          "xmax": 449,
+          "ymax": 1711
+        },
+        {
+          "text": "growing",
+          "xmin": 787,
+          "ymin": 1610,
+          "xmax": 960,
+          "ymax": 1659
+        },
+        {
+          "text": "and",
+          "xmin": 794,
+          "ymin": 1654,
+          "xmax": 877,
+          "ymax": 1702
+        },
+        {
+          "text": "the",
+          "xmin": 911,
+          "ymin": 1655,
+          "xmax": 975,
+          "ymax": 1702
+        },
+        {
+          "text": "exponentially,",
+          "xmin": 984,
+          "ymin": 1608,
+          "xmax": 1276,
+          "ymax": 1659
+        },
+        {
+          "text": "abundant",
+          "xmin": 1300,
+          "ymin": 1608,
+          "xmax": 1497,
+          "ymax": 1648
+        },
+        {
+          "text": "Cloud",
+          "xmin": 1798,
+          "ymin": 1582,
+          "xmax": 1929,
+          "ymax": 1622
+        },
+        {
+          "text": "based",
+          "xmin": 1950,
+          "ymin": 1572,
+          "xmax": 2072,
+          "ymax": 1622
+        },
+        {
+          "text": "environments",
+          "xmin": 2100,
+          "ymin": 1583,
+          "xmax": 2387,
+          "ymax": 1622
+        },
+        {
+          "text": "have",
+          "xmin": 2410,
+          "ymin": 1572,
+          "xmax": 2510,
+          "ymax": 1622
+        },
+        {
+          "text": "been",
+          "xmin": 2536,
+          "ymin": 1582,
+          "xmax": 2631,
+          "ymax": 1622
+        },
+        {
+          "text": "in",
+          "xmin": 2659,
+          "ymin": 1583,
+          "xmax": 2698,
+          "ymax": 1621
+        },
+        {
+          "text": "IT",
+          "xmin": 2724,
+          "ymin": 1583,
+          "xmax": 2773,
+          "ymax": 1620
+        },
+        {
+          "text": "sensors",
+          "xmin": 612,
+          "ymin": 1624,
+          "xmax": 763,
+          "ymax": 1647
+        },
+        {
+          "text": "smart",
+          "xmin": 152,
+          "ymin": 1675,
+          "xmax": 268,
+          "ymax": 1701
+        },
+        {
+          "text": "and",
+          "xmin": 485,
+          "ymin": 1662,
+          "xmax": 557,
+          "ymax": 1702
+        },
+        {
+          "text": "tablets",
+          "xmin": 592,
+          "ymin": 1662,
+          "xmax": 727,
+          "ymax": 1702
+        },
+        {
+          "text": "offering",
+          "xmin": 1158,
+          "ymin": 1650,
+          "xmax": 1324,
+          "ymax": 1714
+        },
+        {
+          "text": "They",
+          "xmin": 2132,
+          "ymin": 1622,
+          "xmax": 2242,
+          "ymax": 1688
+        },
+        {
+          "text": "offer",
+          "xmin": 2275,
+          "ymin": 1635,
+          "xmax": 2376,
+          "ymax": 1676
+        },
+        {
+          "text": "departments",
+          "xmin": 2800,
+          "ymin": 1582,
+          "xmax": 3059,
+          "ymax": 1638
+        },
+        {
+          "text": "for",
+          "xmin": 3086,
+          "ymin": 1581,
+          "xmax": 3149,
+          "ymax": 1622
+        },
+        {
+          "text": "cloud",
+          "xmin": 1008,
+          "ymin": 1655,
+          "xmax": 1123,
+          "ymax": 1702
+        },
+        {
+          "text": "almost",
+          "xmin": 1358,
+          "ymin": 1662,
+          "xmax": 1496,
+          "ymax": 1702
+        },
+        {
+          "text": "many",
+          "xmin": 1798,
+          "ymin": 1652,
+          "xmax": 1914,
+          "ymax": 1687
+        },
+        {
+          "text": "years.",
+          "xmin": 1946,
+          "ymin": 1652,
+          "xmax": 2067,
+          "ymax": 1687
+        },
+        {
+          "text": "Internet",
+          "xmin": 2409,
+          "ymin": 1639,
+          "xmax": 2579,
+          "ymax": 1676
+        },
+        {
+          "text": "connected",
+          "xmin": 2612,
+          "ymin": 1636,
+          "xmax": 2824,
+          "ymax": 1676
+        },
+        {
+          "text": "services",
+          "xmin": 2859,
+          "ymin": 1638,
+          "xmax": 3019,
+          "ymax": 1676
+        },
+        {
+          "text": "with",
+          "xmin": 3052,
+          "ymin": 1636,
+          "xmax": 3146,
+          "ymax": 1674
+        },
+        {
+          "text": ",",
+          "xmin": 727,
+          "ymin": 1694,
+          "xmax": 736,
+          "ymax": 1703
+        },
+        {
+          "text": "limitless",
+          "xmin": 150,
+          "ymin": 1710,
+          "xmax": 322,
+          "ymax": 1756
+        },
+        {
+          "text": "the",
+          "xmin": 546,
+          "ymin": 1716,
+          "xmax": 609,
+          "ymax": 1756
+        },
+        {
+          "text": "scalability",
+          "xmin": 639,
+          "ymin": 1702,
+          "xmax": 851,
+          "ymax": 1768
+        },
+        {
+          "text": "of",
+          "xmin": 881,
+          "ymin": 1715,
+          "xmax": 924,
+          "ymax": 1756
+        },
+        {
+          "text": "these",
+          "xmin": 952,
+          "ymin": 1716,
+          "xmax": 1057,
+          "ymax": 1756
+        },
+        {
+          "text": "is",
+          "xmin": 1281,
+          "ymin": 1720,
+          "xmax": 1309,
+          "ymax": 1755
+        },
+        {
+          "text": "critical.",
+          "xmin": 1342,
+          "ymin": 1716,
+          "xmax": 1494,
+          "ymax": 1756
+        },
+        {
+          "text": "security",
+          "xmin": 1797,
+          "ymin": 1681,
+          "xmax": 1964,
+          "ymax": 1741
+        },
+        {
+          "text": "anda",
+          "xmin": 1978,
+          "ymin": 1690,
+          "xmax": 2084,
+          "ymax": 1730
+        },
+        {
+          "text": "database",
+          "xmin": 2099,
+          "ymin": 1683,
+          "xmax": 2277,
+          "ymax": 1730
+        },
+        {
+          "text": "to",
+          "xmin": 2291,
+          "ymin": 1703,
+          "xmax": 2330,
+          "ymax": 1730
+        },
+        {
+          "text": "store",
+          "xmin": 2346,
+          "ymin": 1703,
+          "xmax": 2448,
+          "ymax": 1730
+        },
+        {
+          "text": "the",
+          "xmin": 2462,
+          "ymin": 1690,
+          "xmax": 2526,
+          "ymax": 1730
+        },
+        {
+          "text": "data.",
+          "xmin": 2540,
+          "ymin": 1690,
+          "xmax": 2637,
+          "ymax": 1730
+        },
+        {
+          "text": "New",
+          "xmin": 2663,
+          "ymin": 1693,
+          "xmax": 2767,
+          "ymax": 1730
+        },
+        {
+          "text": "IoT",
+          "xmin": 2780,
+          "ymin": 1691,
+          "xmax": 2858,
+          "ymax": 1730
+        },
+        {
+          "text": "storage",
+          "xmin": 353,
+          "ymin": 1729,
+          "xmax": 503,
+          "ymax": 1766
+        },
+        {
+          "text": "C",
+          "xmin": 501,
+          "ymin": 1734,
+          "xmax": 513,
+          "ymax": 1758
+        },
+        {
+          "text": "systems",
+          "xmin": 292,
+          "ymin": 1783,
+          "xmax": 454,
+          "ymax": 1817
+        },
+        {
+          "text": "are",
+          "xmin": 474,
+          "ymin": 1786,
+          "xmax": 533,
+          "ymax": 1810
+        },
+        {
+          "text": "intended",
+          "xmin": 681,
+          "ymin": 1761,
+          "xmax": 863,
+          "ymax": 1810
+        },
+        {
+          "text": "systems",
+          "xmin": 1088,
+          "ymin": 1729,
+          "xmax": 1251,
+          "ymax": 1764
+        },
+        {
+          "text": "These",
+          "xmin": 150,
+          "ymin": 1770,
+          "xmax": 273,
+          "ymax": 1810
+        },
+        {
+          "text": "often",
+          "xmin": 554,
+          "ymin": 1769,
+          "xmax": 662,
+          "ymax": 1810
+        },
+        {
+          "text": "to",
+          "xmin": 883,
+          "ymin": 1783,
+          "xmax": 923,
+          "ymax": 1810
+        },
+        {
+          "text": "support",
+          "xmin": 943,
+          "ymin": 1783,
+          "xmax": 1108,
+          "ymax": 1821
+        },
+        {
+          "text": "millions",
+          "xmin": 1126,
+          "ymin": 1770,
+          "xmax": 1294,
+          "ymax": 1810
+        },
+        {
+          "text": "nodes",
+          "xmin": 1374,
+          "ymin": 1770,
+          "xmax": 1494,
+          "ymax": 1810
+        },
+        {
+          "text": "developed",
+          "xmin": 1926,
+          "ymin": 1737,
+          "xmax": 2138,
+          "ymax": 1793
+        },
+        {
+          "text": "platforms",
+          "xmin": 2847,
+          "ymin": 1689,
+          "xmax": 3072,
+          "ymax": 1740
+        },
+        {
+          "text": "are",
+          "xmin": 3088,
+          "ymin": 1706,
+          "xmax": 3148,
+          "ymax": 1730
+        },
+        {
+          "text": "of",
+          "xmin": 1314,
+          "ymin": 1769,
+          "xmax": 1356,
+          "ymax": 1808
+        },
+        {
+          "text": "being",
+          "xmin": 1798,
+          "ymin": 1744,
+          "xmax": 1912,
+          "ymax": 1797
+        },
+        {
+          "text": "as",
+          "xmin": 2156,
+          "ymin": 1760,
+          "xmax": 2191,
+          "ymax": 1784
+        },
+        {
+          "text": "well.",
+          "xmin": 2206,
+          "ymin": 1744,
+          "xmax": 2305,
+          "ymax": 1784
+        },
+        {
+          "text": "Ultimately,",
+          "xmin": 2334,
+          "ymin": 1744,
+          "xmax": 2567,
+          "ymax": 1794
+        },
+        {
+          "text": "the",
+          "xmin": 2584,
+          "ymin": 1744,
+          "xmax": 2647,
+          "ymax": 1783
+        },
+        {
+          "text": "IT",
+          "xmin": 2662,
+          "ymin": 1745,
+          "xmax": 2711,
+          "ymax": 1783
+        },
+        {
+          "text": "which",
+          "xmin": 150,
+          "ymin": 1824,
+          "xmax": 277,
+          "ymax": 1862
+        },
+        {
+          "text": "the",
+          "xmin": 2192,
+          "ymin": 1798,
+          "xmax": 2256,
+          "ymax": 1837
+        },
+        {
+          "text": "cloud",
+          "xmin": 2278,
+          "ymin": 1798,
+          "xmax": 2395,
+          "ymax": 1838
+        },
+        {
+          "text": "platform",
+          "xmin": 2416,
+          "ymin": 1785,
+          "xmax": 2599,
+          "ymax": 1848
+        },
+        {
+          "text": "department",
+          "xmin": 2727,
+          "ymin": 1736,
+          "xmax": 2970,
+          "ymax": 1803
+        },
+        {
+          "text": "must",
+          "xmin": 2983,
+          "ymin": 1757,
+          "xmax": 3086,
+          "ymax": 1784
+        },
+        {
+          "text": "be",
+          "xmin": 3102,
+          "ymin": 1744,
+          "xmax": 3148,
+          "ymax": 1783
+        },
+        {
+          "text": "changes",
+          "xmin": 295,
+          "ymin": 1815,
+          "xmax": 459,
+          "ymax": 1876
+        },
+        {
+          "text": "the",
+          "xmin": 476,
+          "ymin": 1824,
+          "xmax": 539,
+          "ymax": 1862
+        },
+        {
+          "text": "scope",
+          "xmin": 556,
+          "ymin": 1840,
+          "xmax": 672,
+          "ymax": 1873
+        },
+        {
+          "text": "of",
+          "xmin": 690,
+          "ymin": 1823,
+          "xmax": 733,
+          "ymax": 1862
+        },
+        {
+          "text": "the",
+          "xmin": 748,
+          "ymin": 1824,
+          "xmax": 811,
+          "ymax": 1862
+        },
+        {
+          "text": "problem",
+          "xmin": 827,
+          "ymin": 1811,
+          "xmax": 1005,
+          "ymax": 1874
+        },
+        {
+          "text": "considerably",
+          "xmin": 1016,
+          "ymin": 1812,
+          "xmax": 1291,
+          "ymax": 1871
+        },
+        {
+          "text": "comfortable",
+          "xmin": 1797,
+          "ymin": 1791,
+          "xmax": 2053,
+          "ymax": 1838
+        },
+        {
+          "text": "with",
+          "xmin": 2070,
+          "ymin": 1791,
+          "xmax": 2169,
+          "ymax": 1837
+        },
+        {
+          "text": "selected",
+          "xmin": 2624,
+          "ymin": 1791,
+          "xmax": 2785,
+          "ymax": 1837
+        },
+        {
+          "text": "and",
+          "xmin": 2809,
+          "ymin": 1798,
+          "xmax": 2882,
+          "ymax": 1837
+        },
+        {
+          "text": "7",
+          "xmin": 1286,
+          "ymin": 1841,
+          "xmax": 1295,
+          "ymax": 1857
+        },
+        {
+          "text": "generally",
+          "xmin": 2907,
+          "ymin": 1798,
+          "xmax": 3098,
+          "ymax": 1847
+        },
+        {
+          "text": "it",
+          "xmin": 3120,
+          "ymin": 1800,
+          "xmax": 3148,
+          "ymax": 1835
+        },
+        {
+          "text": "will",
+          "xmin": 1795,
+          "ymin": 1852,
+          "xmax": 1875,
+          "ymax": 1891
+        },
+        {
+          "text": "be",
+          "xmin": 1893,
+          "ymin": 1852,
+          "xmax": 1939,
+          "ymax": 1891
+        },
+        {
+          "text": "one",
+          "xmin": 1956,
+          "ymin": 1868,
+          "xmax": 2030,
+          "ymax": 1892
+        },
+        {
+          "text": "of",
+          "xmin": 2048,
+          "ymin": 1852,
+          "xmax": 2091,
+          "ymax": 1891
+        },
+        {
+          "text": "the",
+          "xmin": 2105,
+          "ymin": 1852,
+          "xmax": 2169,
+          "ymax": 1891
+        },
+        {
+          "text": "following",
+          "xmin": 2185,
+          "ymin": 1838,
+          "xmax": 2389,
+          "ymax": 1904
+        },
+        {
+          "text": "offerings",
+          "xmin": 2406,
+          "ymin": 1839,
+          "xmax": 2591,
+          "ymax": 1904
+        },
+        {
+          "text": "eMicrosoft",
+          "xmin": 1860,
+          "ymin": 1934,
+          "xmax": 2092,
+          "ymax": 1975
+        },
+        {
+          "text": "IIS",
+          "xmin": 2122,
+          "ymin": 1938,
+          "xmax": 2182,
+          "ymax": 1973
+        },
+        {
+          "text": "D",
+          "xmin": 2179,
+          "ymin": 1957,
+          "xmax": 2191,
+          "ymax": 1975
+        },
+        {
+          "text": "ASP.net,",
+          "xmin": 2211,
+          "ymin": 1937,
+          "xmax": 2387,
+          "ymax": 1979
+        },
+        {
+          "text": "C#",
+          "xmin": 2406,
+          "ymin": 1937,
+          "xmax": 2466,
+          "ymax": 1973
+        },
+        {
+          "text": "and",
+          "xmin": 2483,
+          "ymin": 1935,
+          "xmax": 2557,
+          "ymax": 1975
+        },
+        {
+          "text": "Azure",
+          "xmin": 2574,
+          "ymin": 1938,
+          "xmax": 2704,
+          "ymax": 1975
+        },
+        {
+          "text": "The",
+          "xmin": 150,
+          "ymin": 1981,
+          "xmax": 231,
+          "ymax": 2020
+        },
+        {
+          "text": "scalability",
+          "xmin": 248,
+          "ymin": 1981,
+          "xmax": 459,
+          "ymax": 2031
+        },
+        {
+          "text": "issue",
+          "xmin": 476,
+          "ymin": 1982,
+          "xmax": 576,
+          "ymax": 2021
+        },
+        {
+          "text": "leads",
+          "xmin": 592,
+          "ymin": 1981,
+          "xmax": 695,
+          "ymax": 2021
+        },
+        {
+          "text": "directly",
+          "xmin": 712,
+          "ymin": 1981,
+          "xmax": 875,
+          "ymax": 2032
+        },
+        {
+          "text": "to",
+          "xmin": 890,
+          "ymin": 1994,
+          "xmax": 932,
+          "ymax": 2021
+        },
+        {
+          "text": "communication",
+          "xmin": 949,
+          "ymin": 1982,
+          "xmax": 1277,
+          "ymax": 2021
+        },
+        {
+          "text": "support",
+          "xmin": 312,
+          "ymin": 2048,
+          "xmax": 474,
+          "ymax": 2087
+        },
+        {
+          "text": "with",
+          "xmin": 449,
+          "ymin": 2083,
+          "xmax": 542,
+          "ymax": 2128
+        },
+        {
+          "text": "publish",
+          "xmin": 496,
+          "ymin": 2020,
+          "xmax": 664,
+          "ymax": 2087
+        },
+        {
+          "text": "subscribe",
+          "xmin": 694,
+          "ymin": 2028,
+          "xmax": 891,
+          "ymax": 2074
+        },
+        {
+          "text": "deal",
+          "xmin": 348,
+          "ymin": 2083,
+          "xmax": 431,
+          "ymax": 2128
+        },
+        {
+          "text": "type",
+          "xmin": 923,
+          "ymin": 2048,
+          "xmax": 1014,
+          "ymax": 2087
+        },
+        {
+          "text": "making",
+          "xmin": 1282,
+          "ymin": 2021,
+          "xmax": 1437,
+          "ymax": 2087
+        },
+        {
+          "text": "protocols",
+          "xmin": 1294,
+          "ymin": 1981,
+          "xmax": 1495,
+          "ymax": 2031
+        },
+        {
+          "text": "a",
+          "xmin": 1861,
+          "ymin": 2029,
+          "xmax": 1870,
+          "ymax": 2035
+        },
+        {
+          "text": "which",
+          "xmin": 149,
+          "ymin": 2035,
+          "xmax": 277,
+          "ymax": 2074
+        },
+        {
+          "text": "operation",
+          "xmin": 1046,
+          "ymin": 2036,
+          "xmax": 1250,
+          "ymax": 2090
+        },
+        {
+          "text": "it",
+          "xmin": 1466,
+          "ymin": 2036,
+          "xmax": 1495,
+          "ymax": 2073
+        },
+        {
+          "text": "Oracle",
+          "xmin": 1866,
+          "ymin": 2017,
+          "xmax": 2024,
+          "ymax": 2056
+        },
+        {
+          "text": "with",
+          "xmin": 2039,
+          "ymin": 2017,
+          "xmax": 2133,
+          "ymax": 2056
+        },
+        {
+          "text": "Java",
+          "xmin": 2148,
+          "ymin": 2020,
+          "xmax": 2237,
+          "ymax": 2064
+        },
+        {
+          "text": "and",
+          "xmin": 2254,
+          "ymin": 2017,
+          "xmax": 2327,
+          "ymax": 2056
+        },
+        {
+          "text": "Javascript",
+          "xmin": 2341,
+          "ymin": 2019,
+          "xmax": 2551,
+          "ymax": 2067
+        },
+        {
+          "text": "easier",
+          "xmin": 151,
+          "ymin": 2090,
+          "xmax": 268,
+          "ymax": 2127
+        },
+        {
+          "text": "to",
+          "xmin": 287,
+          "ymin": 2102,
+          "xmax": 327,
+          "ymax": 2129
+        },
+        {
+          "text": "network",
+          "xmin": 564,
+          "ymin": 2089,
+          "xmax": 740,
+          "ymax": 2127
+        },
+        {
+          "text": "connection",
+          "xmin": 762,
+          "ymin": 2091,
+          "xmax": 993,
+          "ymax": 2129
+        },
+        {
+          "text": "and",
+          "xmin": 1014,
+          "ymin": 2083,
+          "xmax": 1089,
+          "ymax": 2128
+        },
+        {
+          "text": "disconnection.",
+          "xmin": 1109,
+          "ymin": 2089,
+          "xmax": 1409,
+          "ymax": 2129
+        },
+        {
+          "text": "In",
+          "xmin": 1452,
+          "ymin": 2092,
+          "xmax": 1497,
+          "ymax": 2128
+        },
+        {
+          "text": ".",
+          "xmin": 1860,
+          "ymin": 2107,
+          "xmax": 1886,
+          "ymax": 2131
+        },
+        {
+          "text": "IBM",
+          "xmin": 1883,
+          "ymin": 2107,
+          "xmax": 1976,
+          "ymax": 2143
+        },
+        {
+          "text": "addition",
+          "xmin": 152,
+          "ymin": 2143,
+          "xmax": 326,
+          "ymax": 2182
+        },
+        {
+          "text": "this",
+          "xmin": 352,
+          "ymin": 2143,
+          "xmax": 425,
+          "ymax": 2182
+        },
+        {
+          "text": "creates",
+          "xmin": 441,
+          "ymin": 2156,
+          "xmax": 582,
+          "ymax": 2181
+        },
+        {
+          "text": "a",
+          "xmin": 597,
+          "ymin": 2159,
+          "xmax": 612,
+          "ymax": 2180
+        },
+        {
+          "text": "need",
+          "xmin": 628,
+          "ymin": 2143,
+          "xmax": 724,
+          "ymax": 2183
+        },
+        {
+          "text": "for",
+          "xmin": 738,
+          "ymin": 2142,
+          "xmax": 802,
+          "ymax": 2182
+        },
+        {
+          "text": "low",
+          "xmin": 814,
+          "ymin": 2143,
+          "xmax": 892,
+          "ymax": 2183
+        },
+        {
+          "text": "overhead",
+          "xmin": 905,
+          "ymin": 2143,
+          "xmax": 1095,
+          "ymax": 2183
+        },
+        {
+          "text": "on",
+          "xmin": 1112,
+          "ymin": 2159,
+          "xmax": 1160,
+          "ymax": 2183
+        },
+        {
+          "text": "these",
+          "xmin": 1177,
+          "ymin": 2143,
+          "xmax": 1282,
+          "ymax": 2183
+        },
+        {
+          "text": "protocols",
+          "xmin": 1294,
+          "ymin": 2143,
+          "xmax": 1495,
+          "ymax": 2193
+        },
+        {
+          "text": "Websphere",
+          "xmin": 1996,
+          "ymin": 2104,
+          "xmax": 2228,
+          "ymax": 2153
+        },
+        {
+          "text": "to",
+          "xmin": 151,
+          "ymin": 2210,
+          "xmax": 191,
+          "ymax": 2235
+        },
+        {
+          "text": "reduce",
+          "xmin": 212,
+          "ymin": 2197,
+          "xmax": 351,
+          "ymax": 2236
+        },
+        {
+          "text": "the",
+          "xmin": 371,
+          "ymin": 2197,
+          "xmax": 435,
+          "ymax": 2236
+        },
+        {
+          "text": "cost",
+          "xmin": 455,
+          "ymin": 2210,
+          "xmax": 538,
+          "ymax": 2235
+        },
+        {
+          "text": "of",
+          "xmin": 558,
+          "ymin": 2197,
+          "xmax": 601,
+          "ymax": 2236
+        },
+        {
+          "text": "sensor",
+          "xmin": 619,
+          "ymin": 2213,
+          "xmax": 753,
+          "ymax": 2235
+        },
+        {
+          "text": "nodes",
+          "xmin": 772,
+          "ymin": 2197,
+          "xmax": 894,
+          "ymax": 2236
+        },
+        {
+          "text": "|",
+          "xmin": 913,
+          "ymin": 2222,
+          "xmax": 937,
+          "ymax": 2226
+        },
+        {
+          "text": "lightweight",
+          "xmin": 956,
+          "ymin": 2197,
+          "xmax": 1197,
+          "ymax": 2249
+        },
+        {
+          "text": "protocols",
+          "xmin": 1214,
+          "ymin": 2192,
+          "xmax": 1415,
+          "ymax": 2247
+        },
+        {
+          "text": "are",
+          "xmin": 1435,
+          "ymin": 2213,
+          "xmax": 1495,
+          "ymax": 2235
+        },
+        {
+          "text": "MySQL",
+          "xmin": 1860,
+          "ymin": 2197,
+          "xmax": 2056,
+          "ymax": 2243
+        },
+        {
+          "text": "highly",
+          "xmin": 150,
+          "ymin": 2251,
+          "xmax": 285,
+          "ymax": 2303
+        },
+        {
+          "text": "desirable",
+          "xmin": 301,
+          "ymin": 2251,
+          "xmax": 494,
+          "ymax": 2290
+        },
+        {
+          "text": "www.rowebots.com",
+          "xmin": 149,
+          "ymin": 2407,
+          "xmax": 588,
+          "ymax": 2441
+        },
+        {
+          "text": "Rowebots",
+          "xmin": 2611,
+          "ymin": 2411,
+          "xmax": 2758,
+          "ymax": 2436
+        },
+        {
+          "text": "Limited",
+          "xmin": 2773,
+          "ymin": 2411,
+          "xmax": 2881,
+          "ymax": 2435
+        },
+        {
+          "text": "C",
+          "xmin": 2897,
+          "ymin": 2409,
+          "xmax": 2920,
+          "ymax": 2432
+        },
+        {
+          "text": "2016.",
+          "xmin": 2939,
+          "ymin": 2410,
+          "xmax": 3020,
+          "ymax": 2436
+        },
+        {
+          "text": "page",
+          "xmin": 3034,
+          "ymin": 2419,
+          "xmax": 3101,
+          "ymax": 2444
+        },
+        {
+          "text": "2",
+          "xmin": 3130,
+          "ymin": 2410,
+          "xmax": 3146,
+          "ymax": 2432
+        }
+      ],
+      "raw_text": "Key Features Low Power With a general substantially. agreement that the number of sensors on systems Given the shear magnitude of the number of sensors, battery will grow The main requirements of IoT and replacement is a employed big issue | Energy harvesting schemes are M2M systems are to eliminate or them being batteries recharge automatically - small and over the life inexpensive of the device. Many sensor Low power sensors for many applications Wireless Networking a Wireless networking With many small sensors , the cost and convenience of . making systems Internet communications can be enhanced by the devices wireless. For Cloud based services which require integration with front in large industrial installations S, wireless networking example, can eliminate end significant cabling requirements during installation sensors and lead to adhoc network configuration oSmart phone, tablet and computer access to database System security Internet Communications With standardized communications protocols offered by These key requirements drive the implementation of software conformance to the broad set of W3 specifications | modules and services provided by RoweBots and lead to many interoperability of systems is substantially enhanced. RoweBots other requirements. focuses on industry standards in all areas to ensure that systems will be easily integrated and supported over time. Scalability Cloud Based Services With the number of phones growing and the exponentially, abundant Cloud based environments have been in IT sensors smart and tablets offering They offer departments for cloud almost many years. Internet connected services with , limitless the scalability of these is critical. security anda database to store the data. New IoT storage C systems are intended systems These often to support millions nodes developed platforms are of being as well. Ultimately, the IT which the cloud platform department must be changes the scope of the problem considerably comfortable with selected and 7 generally it will be one of the following offerings eMicrosoft IIS D ASP.net, C# and Azure The scalability issue leads directly to communication support with publish subscribe deal type making protocols a which operation it Oracle with Java and Javascript easier to network connection and disconnection. In . IBM addition this creates a need for low overhead on these protocols Websphere to reduce the cost of sensor nodes | lightweight protocols are MySQL highly desirable www.rowebots.com Rowebots Limited C 2016. page 2 "
+    },
+    {
+      "page": 2,
+      "image_url": "https://nnts.imgix.net/uploadedfiles/rawocr/68607257-7ede-44cd-bbf8-03a44ff7b6b6-3.jpeg?auto=compress&expires=1700014722&or=0&s=65cefcbd5dfb5ef126baa8869f670838",
+      "size": {
+        "width": 3300,
+        "height": 2550
+      },
+      "words": [
+        {
+          "text": "Due",
+          "xmin": 151,
+          "ymin": 156,
+          "xmax": 239,
+          "ymax": 194
+        },
+        {
+          "text": "to",
+          "xmin": 262,
+          "ymin": 167,
+          "xmax": 301,
+          "ymax": 193
+        },
+        {
+          "text": "the",
+          "xmin": 326,
+          "ymin": 154,
+          "xmax": 389,
+          "ymax": 194
+        },
+        {
+          "text": "variety",
+          "xmin": 410,
+          "ymin": 155,
+          "xmax": 557,
+          "ymax": 203
+        },
+        {
+          "text": "of",
+          "xmin": 579,
+          "ymin": 153,
+          "xmax": 623,
+          "ymax": 194
+        },
+        {
+          "text": "environments",
+          "xmin": 643,
+          "ymin": 155,
+          "xmax": 930,
+          "ymax": 193
+        },
+        {
+          "text": "that",
+          "xmin": 954,
+          "ymin": 154,
+          "xmax": 1035,
+          "ymax": 194
+        },
+        {
+          "text": "generally",
+          "xmin": 1057,
+          "ymin": 154,
+          "xmax": 1249,
+          "ymax": 205
+        },
+        {
+          "text": "work",
+          "xmin": 1268,
+          "ymin": 154,
+          "xmax": 1380,
+          "ymax": 194
+        },
+        {
+          "text": "with",
+          "xmin": 1403,
+          "ymin": 154,
+          "xmax": 1496,
+          "ymax": 194
+        },
+        {
+          "text": "these",
+          "xmin": 151,
+          "ymin": 208,
+          "xmax": 256,
+          "ymax": 248
+        },
+        {
+          "text": "implementations",
+          "xmin": 150,
+          "ymin": 250,
+          "xmax": 503,
+          "ymax": 313
+        },
+        {
+          "text": "platforms",
+          "xmin": 286,
+          "ymin": 207,
+          "xmax": 490,
+          "ymax": 260
+        },
+        {
+          "text": "connect",
+          "xmin": 596,
+          "ymin": 221,
+          "xmax": 760,
+          "ymax": 247
+        },
+        {
+          "text": "business",
+          "xmin": 626,
+          "ymin": 255,
+          "xmax": 800,
+          "ymax": 302
+        },
+        {
+          "text": "protocols",
+          "xmin": 790,
+          "ymin": 208,
+          "xmax": 991,
+          "ymax": 260
+        },
+        {
+          "text": "and",
+          "xmin": 1024,
+          "ymin": 203,
+          "xmax": 1097,
+          "ymax": 248
+        },
+        {
+          "text": "various",
+          "xmin": 1129,
+          "ymin": 209,
+          "xmax": 1281,
+          "ymax": 247
+        },
+        {
+          "text": "language",
+          "xmin": 1315,
+          "ymin": 208,
+          "xmax": 1498,
+          "ymax": 266
+        },
+        {
+          "text": "Machine",
+          "xmin": 2008,
+          "ymin": 186,
+          "xmax": 2170,
+          "ymax": 216
+        },
+        {
+          "text": "to",
+          "xmin": 2184,
+          "ymin": 188,
+          "xmax": 2221,
+          "ymax": 217
+        },
+        {
+          "text": "Machine",
+          "xmin": 2238,
+          "ymin": 186,
+          "xmax": 2400,
+          "ymax": 217
+        },
+        {
+          "text": "(M2M",
+          "xmin": 2415,
+          "ymin": 186,
+          "xmax": 2517,
+          "ymax": 216
+        },
+        {
+          "text": "1",
+          "xmin": 2514,
+          "ymin": 186,
+          "xmax": 2529,
+          "ymax": 214
+        },
+        {
+          "text": "System",
+          "xmin": 2547,
+          "ymin": 187,
+          "xmax": 2690,
+          "ymax": 223
+        },
+        {
+          "text": "Architecture",
+          "xmin": 2705,
+          "ymin": 186,
+          "xmax": 2947,
+          "ymax": 216
+        },
+        {
+          "text": "to",
+          "xmin": 523,
+          "ymin": 221,
+          "xmax": 562,
+          "ymax": 247
+        },
+        {
+          "text": "for",
+          "xmin": 533,
+          "ymin": 262,
+          "xmax": 595,
+          "ymax": 302
+        },
+        {
+          "text": "logic,",
+          "xmin": 829,
+          "ymin": 262,
+          "xmax": 940,
+          "ymax": 314
+        },
+        {
+          "text": "RoweBots",
+          "xmin": 972,
+          "ymin": 265,
+          "xmax": 1190,
+          "ymax": 302
+        },
+        {
+          "text": "flexible",
+          "xmin": 150,
+          "ymin": 311,
+          "xmax": 303,
+          "ymax": 357
+        },
+        {
+          "text": "offcrings",
+          "xmin": 1222,
+          "ymin": 251,
+          "xmax": 1406,
+          "ymax": 314
+        },
+        {
+          "text": "are",
+          "xmin": 1438,
+          "ymin": 278,
+          "xmax": 1498,
+          "ymax": 301
+        },
+        {
+          "text": "to",
+          "xmin": 320,
+          "ymin": 330,
+          "xmax": 359,
+          "ymax": 357
+        },
+        {
+          "text": "deliver",
+          "xmin": 377,
+          "ymin": 317,
+          "xmax": 519,
+          "ymax": 357
+        },
+        {
+          "text": "a",
+          "xmin": 534,
+          "ymin": 333,
+          "xmax": 553,
+          "ymax": 354
+        },
+        {
+          "text": "varicty",
+          "xmin": 568,
+          "ymin": 318,
+          "xmax": 715,
+          "ymax": 366
+        },
+        {
+          "text": "of",
+          "xmin": 731,
+          "ymin": 316,
+          "xmax": 773,
+          "ymax": 357
+        },
+        {
+          "text": "solutions",
+          "xmin": 787,
+          "ymin": 311,
+          "xmax": 978,
+          "ymax": 357
+        },
+        {
+          "text": "in",
+          "xmin": 994,
+          "ymin": 318,
+          "xmax": 1034,
+          "ymax": 356
+        },
+        {
+          "text": "this",
+          "xmin": 1049,
+          "ymin": 317,
+          "xmax": 1124,
+          "ymax": 357
+        },
+        {
+          "text": "to",
+          "xmin": 1239,
+          "ymin": 330,
+          "xmax": 1279,
+          "ymax": 356
+        },
+        {
+          "text": "ensure",
+          "xmin": 1297,
+          "ymin": 333,
+          "xmax": 1432,
+          "ymax": 356
+        },
+        {
+          "text": "IT",
+          "xmin": 1449,
+          "ymin": 319,
+          "xmax": 1496,
+          "ymax": 354
+        },
+        {
+          "text": "Secure",
+          "xmin": 1882,
+          "ymin": 311,
+          "xmax": 1968,
+          "ymax": 331
+        },
+        {
+          "text": "Sensors",
+          "xmin": 1979,
+          "ymin": 311,
+          "xmax": 2079,
+          "ymax": 331
+        },
+        {
+          "text": "COTS",
+          "xmin": 2937,
+          "ymin": 311,
+          "xmax": 3005,
+          "ymax": 329
+        },
+        {
+          "text": "area",
+          "xmin": 1140,
+          "ymin": 333,
+          "xmax": 1222,
+          "ymax": 356
+        },
+        {
+          "text": "&",
+          "xmin": 1973,
+          "ymin": 343,
+          "xmax": 1985,
+          "ymax": 358
+        },
+        {
+          "text": "Cloud",
+          "xmin": 2276,
+          "ymin": 327,
+          "xmax": 2347,
+          "ymax": 347
+        },
+        {
+          "text": "Management",
+          "xmin": 2563,
+          "ymin": 327,
+          "xmax": 2724,
+          "ymax": 349
+        },
+        {
+          "text": "&",
+          "xmin": 2964,
+          "ymin": 343,
+          "xmax": 2975,
+          "ymax": 358
+        },
+        {
+          "text": "needs",
+          "xmin": 150,
+          "ymin": 371,
+          "xmax": 267,
+          "ymax": 411
+        },
+        {
+          "text": "are",
+          "xmin": 284,
+          "ymin": 387,
+          "xmax": 345,
+          "ymax": 410
+        },
+        {
+          "text": "addressed",
+          "xmin": 362,
+          "ymin": 371,
+          "xmax": 565,
+          "ymax": 411
+        },
+        {
+          "text": "Sensor",
+          "xmin": 1873,
+          "ymin": 375,
+          "xmax": 1960,
+          "ymax": 393
+        },
+        {
+          "text": "Platforms",
+          "xmin": 1971,
+          "ymin": 375,
+          "xmax": 2089,
+          "ymax": 393
+        },
+        {
+          "text": "Communications",
+          "xmin": 2205,
+          "ymin": 359,
+          "xmax": 2417,
+          "ymax": 377
+        },
+        {
+          "text": "Infrastructure",
+          "xmin": 2558,
+          "ymin": 359,
+          "xmax": 2726,
+          "ymax": 377
+        },
+        {
+          "text": "Custom",
+          "xmin": 2840,
+          "ymin": 375,
+          "xmax": 2935,
+          "ymax": 393
+        },
+        {
+          "text": "Applications",
+          "xmin": 2946,
+          "ymin": 375,
+          "xmax": 3103,
+          "ymax": 396
+        },
+        {
+          "text": "Custom",
+          "xmin": 2632,
+          "ymin": 504,
+          "xmax": 2702,
+          "ymax": 515
+        },
+        {
+          "text": "Phones",
+          "xmin": 2273,
+          "ymin": 515,
+          "xmax": 2352,
+          "ymax": 530
+        },
+        {
+          "text": "Management",
+          "xmin": 2608,
+          "ymin": 529,
+          "xmax": 2727,
+          "ymax": 541
+        },
+        {
+          "text": "Intearatec",
+          "xmin": 2879,
+          "ymin": 518,
+          "xmax": 2970,
+          "ymax": 531
+        },
+        {
+          "text": "Apps",
+          "xmin": 2980,
+          "ymin": 518,
+          "xmax": 3028,
+          "ymax": 532
+        },
+        {
+          "text": "Smart",
+          "xmin": 164,
+          "ymin": 540,
+          "xmax": 293,
+          "ymax": 581
+        },
+        {
+          "text": "Phones",
+          "xmin": 336,
+          "ymin": 540,
+          "xmax": 502,
+          "ymax": 581
+        },
+        {
+          "text": "|",
+          "xmin": 502,
+          "ymin": 574,
+          "xmax": 506,
+          "ymax": 579
+        },
+        {
+          "text": "Tablets",
+          "xmin": 546,
+          "ymin": 540,
+          "xmax": 708,
+          "ymax": 581
+        },
+        {
+          "text": "Tables",
+          "xmin": 2281,
+          "ymin": 543,
+          "xmax": 2351,
+          "ymax": 557
+        },
+        {
+          "text": "Sensor",
+          "xmin": 1932,
+          "ymin": 579,
+          "xmax": 2033,
+          "ymax": 599
+        },
+        {
+          "text": "&",
+          "xmin": 2245,
+          "ymin": 571,
+          "xmax": 2259,
+          "ymax": 587
+        },
+        {
+          "text": "Computers",
+          "xmin": 2268,
+          "ymin": 571,
+          "xmax": 2389,
+          "ymax": 591
+        },
+        {
+          "text": "Management",
+          "xmin": 2610,
+          "ymin": 592,
+          "xmax": 2728,
+          "ymax": 607
+        },
+        {
+          "text": "Billing",
+          "xmin": 2640,
+          "ymin": 607,
+          "xmax": 2698,
+          "ymax": 632
+        },
+        {
+          "text": "Integrated",
+          "xmin": 2908,
+          "ymin": 593,
+          "xmax": 3001,
+          "ymax": 608
+        },
+        {
+          "text": "and",
+          "xmin": 164,
+          "ymin": 610,
+          "xmax": 238,
+          "ymax": 650
+        },
+        {
+          "text": "Computers",
+          "xmin": 281,
+          "ymin": 610,
+          "xmax": 521,
+          "ymax": 663
+        },
+        {
+          "text": "Application",
+          "xmin": 1901,
+          "ymin": 615,
+          "xmax": 2058,
+          "ymax": 640
+        },
+        {
+          "text": "App",
+          "xmin": 2902,
+          "ymin": 617,
+          "xmax": 2938,
+          "ymax": 633
+        },
+        {
+          "text": "Billing",
+          "xmin": 2944,
+          "ymin": 611,
+          "xmax": 3004,
+          "ymax": 632
+        },
+        {
+          "text": "COTS",
+          "xmin": 2618,
+          "ymin": 672,
+          "xmax": 2672,
+          "ymax": 684
+        },
+        {
+          "text": "Tool",
+          "xmin": 2679,
+          "ymin": 672,
+          "xmax": 2717,
+          "ymax": 683
+        },
+        {
+          "text": "COTS",
+          "xmin": 2904,
+          "ymin": 673,
+          "xmax": 2956,
+          "ymax": 687
+        },
+        {
+          "text": "Too",
+          "xmin": 2965,
+          "ymin": 674,
+          "xmax": 3003,
+          "ymax": 686
+        },
+        {
+          "text": "Platforms",
+          "xmin": 2624,
+          "ymin": 696,
+          "xmax": 2712,
+          "ymax": 709
+        },
+        {
+          "text": "Platforms",
+          "xmin": 2911,
+          "ymin": 697,
+          "xmax": 2996,
+          "ymax": 709
+        },
+        {
+          "text": "With",
+          "xmin": 151,
+          "ymin": 745,
+          "xmax": 254,
+          "ymax": 785
+        },
+        {
+          "text": "the",
+          "xmin": 270,
+          "ymin": 745,
+          "xmax": 333,
+          "ymax": 785
+        },
+        {
+          "text": "plethora",
+          "xmin": 350,
+          "ymin": 745,
+          "xmax": 525,
+          "ymax": 793
+        },
+        {
+          "text": "of",
+          "xmin": 541,
+          "ymin": 744,
+          "xmax": 582,
+          "ymax": 785
+        },
+        {
+          "text": "devices",
+          "xmin": 597,
+          "ymin": 745,
+          "xmax": 745,
+          "ymax": 785
+        },
+        {
+          "text": "available",
+          "xmin": 762,
+          "ymin": 745,
+          "xmax": 942,
+          "ymax": 785
+        },
+        {
+          "text": "today",
+          "xmin": 958,
+          "ymin": 745,
+          "xmax": 1078,
+          "ymax": 797
+        },
+        {
+          "text": "to",
+          "xmin": 1093,
+          "ymin": 758,
+          "xmax": 1132,
+          "ymax": 784
+        },
+        {
+          "text": "receive",
+          "xmin": 1150,
+          "ymin": 746,
+          "xmax": 1294,
+          "ymax": 785
+        },
+        {
+          "text": "data,",
+          "xmin": 1309,
+          "ymin": 745,
+          "xmax": 1407,
+          "ymax": 791
+        },
+        {
+          "text": "and",
+          "xmin": 1423,
+          "ymin": 745,
+          "xmax": 1496,
+          "ymax": 785
+        },
+        {
+          "text": "Internet",
+          "xmin": 2262,
+          "ymin": 739,
+          "xmax": 2360,
+          "ymax": 759
+        },
+        {
+          "text": "the",
+          "xmin": 151,
+          "ymin": 799,
+          "xmax": 214,
+          "ymax": 839
+        },
+        {
+          "text": "growth",
+          "xmin": 237,
+          "ymin": 790,
+          "xmax": 390,
+          "ymax": 850
+        },
+        {
+          "text": "in",
+          "xmin": 408,
+          "ymin": 800,
+          "xmax": 447,
+          "ymax": 838
+        },
+        {
+          "text": "this",
+          "xmin": 469,
+          "ymin": 799,
+          "xmax": 542,
+          "ymax": 839
+        },
+        {
+          "text": "list",
+          "xmin": 564,
+          "ymin": 799,
+          "xmax": 627,
+          "ymax": 839
+        },
+        {
+          "text": "of",
+          "xmin": 648,
+          "ymin": 798,
+          "xmax": 691,
+          "ymax": 839
+        },
+        {
+          "text": "devices",
+          "xmin": 709,
+          "ymin": 799,
+          "xmax": 858,
+          "ymax": 839
+        },
+        {
+          "text": "with",
+          "xmin": 878,
+          "ymin": 799,
+          "xmax": 973,
+          "ymax": 839
+        },
+        {
+          "text": "cxpcrimental",
+          "xmin": 996,
+          "ymin": 789,
+          "xmax": 1269,
+          "ymax": 855
+        },
+        {
+          "text": "devices",
+          "xmin": 1289,
+          "ymin": 799,
+          "xmax": 1438,
+          "ymax": 839
+        },
+        {
+          "text": "in",
+          "xmin": 1458,
+          "ymin": 800,
+          "xmax": 1498,
+          "ymax": 838
+        },
+        {
+          "text": "Secure",
+          "xmin": 2272,
+          "ymin": 804,
+          "xmax": 2347,
+          "ymax": 824
+        },
+        {
+          "text": "smart",
+          "xmin": 151,
+          "ymin": 866,
+          "xmax": 268,
+          "ymax": 892
+        },
+        {
+          "text": "watches,",
+          "xmin": 296,
+          "ymin": 853,
+          "xmax": 476,
+          "ymax": 899
+        },
+        {
+          "text": "home",
+          "xmin": 506,
+          "ymin": 853,
+          "xmax": 622,
+          "ymax": 893
+        },
+        {
+          "text": "has",
+          "xmin": 425,
+          "ymin": 899,
+          "xmax": 491,
+          "ymax": 947
+        },
+        {
+          "text": "been",
+          "xmin": 650,
+          "ymin": 899,
+          "xmax": 744,
+          "ymax": 947
+        },
+        {
+          "text": "displays",
+          "xmin": 652,
+          "ymin": 853,
+          "xmax": 820,
+          "ymax": 903
+        },
+        {
+          "text": "and",
+          "xmin": 852,
+          "ymin": 853,
+          "xmax": 924,
+          "ymax": 893
+        },
+        {
+          "text": "other",
+          "xmin": 956,
+          "ymin": 845,
+          "xmax": 1067,
+          "ymax": 893
+        },
+        {
+          "text": "Communication",
+          "xmin": 2223,
+          "ymin": 843,
+          "xmax": 2396,
+          "ymax": 860
+        },
+        {
+          "text": "systems",
+          "xmin": 1096,
+          "ymin": 866,
+          "xmax": 1258,
+          "ymax": 901
+        },
+        {
+          "text": "|",
+          "xmin": 1263,
+          "ymin": 886,
+          "xmax": 1267,
+          "ymax": 892
+        },
+        {
+          "text": "access",
+          "xmin": 1302,
+          "ymin": 869,
+          "xmax": 1425,
+          "ymax": 892
+        },
+        {
+          "text": "to",
+          "xmin": 1457,
+          "ymin": 866,
+          "xmax": 1495,
+          "ymax": 892
+        },
+        {
+          "text": "Unison",
+          "xmin": 1910,
+          "ymin": 860,
+          "xmax": 2007,
+          "ymax": 880
+        },
+        {
+          "text": "os",
+          "xmin": 2019,
+          "ymin": 860,
+          "xmax": 2057,
+          "ymax": 882
+        },
+        {
+          "text": "Server",
+          "xmin": 2633,
+          "ymin": 860,
+          "xmax": 2703,
+          "ymax": 875
+        },
+        {
+          "text": "Server",
+          "xmin": 2859,
+          "ymin": 861,
+          "xmax": 2930,
+          "ymax": 878
+        },
+        {
+          "text": "or",
+          "xmin": 2938,
+          "ymin": 866,
+          "xmax": 2958,
+          "ymax": 878
+        },
+        {
+          "text": "Display",
+          "xmin": 2968,
+          "ymin": 861,
+          "xmax": 3048,
+          "ymax": 882
+        },
+        {
+          "text": "YOS",
+          "xmin": 2578,
+          "ymin": 888,
+          "xmax": 2613,
+          "ymax": 903
+        },
+        {
+          "text": "&",
+          "xmin": 2624,
+          "ymin": 889,
+          "xmax": 2635,
+          "ymax": 902
+        },
+        {
+          "text": "Hardware",
+          "xmin": 2648,
+          "ymin": 889,
+          "xmax": 2749,
+          "ymax": 903
+        },
+        {
+          "text": "(oS",
+          "xmin": 2863,
+          "ymin": 889,
+          "xmax": 2901,
+          "ymax": 908
+        },
+        {
+          "text": "&",
+          "xmin": 2910,
+          "ymin": 889,
+          "xmax": 2921,
+          "ymax": 905
+        },
+        {
+          "text": "Hardware",
+          "xmin": 2934,
+          "ymin": 889,
+          "xmax": 3037,
+          "ymax": 906
+        },
+        {
+          "text": "information",
+          "xmin": 151,
+          "ymin": 906,
+          "xmax": 403,
+          "ymax": 947
+        },
+        {
+          "text": "never",
+          "xmin": 513,
+          "ymin": 924,
+          "xmax": 628,
+          "ymax": 947
+        },
+        {
+          "text": "easier",
+          "xmin": 769,
+          "ymin": 909,
+          "xmax": 884,
+          "ymax": 946
+        },
+        {
+          "text": "The",
+          "xmin": 933,
+          "ymin": 907,
+          "xmax": 1014,
+          "ymax": 947
+        },
+        {
+          "text": "access",
+          "xmin": 1036,
+          "ymin": 923,
+          "xmax": 1160,
+          "ymax": 946
+        },
+        {
+          "text": "to",
+          "xmin": 1182,
+          "ymin": 920,
+          "xmax": 1222,
+          "ymax": 946
+        },
+        {
+          "text": "information",
+          "xmin": 1244,
+          "ymin": 907,
+          "xmax": 1497,
+          "ymax": 949
+        },
+        {
+          "text": "a",
+          "xmin": 1993,
+          "ymin": 925,
+          "xmax": 2006,
+          "ymax": 932
+        },
+        {
+          "text": "A",
+          "xmin": 2040,
+          "ymin": 925,
+          "xmax": 2055,
+          "ymax": 928
+        },
+        {
+          "text": "-",
+          "xmin": 2034,
+          "ymin": 928,
+          "xmax": 2034,
+          "ymax": 928
+        },
+        {
+          "text": "will",
+          "xmin": 149,
+          "ymin": 962,
+          "xmax": 233,
+          "ymax": 1001
+        },
+        {
+          "text": "accustomed",
+          "xmin": 152,
+          "ymin": 1011,
+          "xmax": 394,
+          "ymax": 1054
+        },
+        {
+          "text": "expand",
+          "xmin": 272,
+          "ymin": 962,
+          "xmax": 424,
+          "ymax": 1017
+        },
+        {
+          "text": "exponentially",
+          "xmin": 465,
+          "ymin": 962,
+          "xmax": 762,
+          "ymax": 1014
+        },
+        {
+          "text": "too",
+          "xmin": 802,
+          "ymin": 975,
+          "xmax": 871,
+          "ymax": 1000
+        },
+        {
+          "text": "information",
+          "xmin": 739,
+          "ymin": 1010,
+          "xmax": 996,
+          "ymax": 1056
+        },
+        {
+          "text": "particularly",
+          "xmin": 912,
+          "ymin": 962,
+          "xmax": 1169,
+          "ymax": 1014
+        },
+        {
+          "text": "as",
+          "xmin": 1208,
+          "ymin": 978,
+          "xmax": 1245,
+          "ymax": 1000
+        },
+        {
+          "text": "users",
+          "xmin": 1285,
+          "ymin": 978,
+          "xmax": 1395,
+          "ymax": 1000
+        },
+        {
+          "text": "immediate",
+          "xmin": 495,
+          "ymin": 1010,
+          "xmax": 715,
+          "ymax": 1056
+        },
+        {
+          "text": "get",
+          "xmin": 1436,
+          "ymin": 975,
+          "xmax": 1499,
+          "ymax": 1014
+        },
+        {
+          "text": "MCU",
+          "xmin": 1948,
+          "ymin": 968,
+          "xmax": 2016,
+          "ymax": 990
+        },
+        {
+          "text": "to",
+          "xmin": 426,
+          "ymin": 1029,
+          "xmax": 466,
+          "ymax": 1054
+        },
+        {
+          "text": "and",
+          "xmin": 1026,
+          "ymin": 1016,
+          "xmax": 1098,
+          "ymax": 1056
+        },
+        {
+          "text": "use",
+          "xmin": 1128,
+          "ymin": 1032,
+          "xmax": 1193,
+          "ymax": 1054
+        },
+        {
+          "text": "their",
+          "xmin": 1223,
+          "ymin": 1016,
+          "xmax": 1320,
+          "ymax": 1056
+        },
+        {
+          "text": "devices",
+          "xmin": 1348,
+          "ymin": 1010,
+          "xmax": 1498,
+          "ymax": 1056
+        },
+        {
+          "text": "MPU.FPGA",
+          "xmin": 1907,
+          "ymin": 1004,
+          "xmax": 2060,
+          "ymax": 1026
+        },
+        {
+          "text": "more.",
+          "xmin": 152,
+          "ymin": 1086,
+          "xmax": 268,
+          "ymax": 1108
+        },
+        {
+          "text": "Figure",
+          "xmin": 1802,
+          "ymin": 1179,
+          "xmax": 1923,
+          "ymax": 1217
+        },
+        {
+          "text": "2",
+          "xmin": 1945,
+          "ymin": 1179,
+          "xmax": 1960,
+          "ymax": 1205
+        },
+        {
+          "text": "|",
+          "xmin": 1969,
+          "ymin": 1187,
+          "xmax": 1973,
+          "ymax": 1194
+        },
+        {
+          "text": "Uni",
+          "xmin": 1998,
+          "ymin": 1179,
+          "xmax": 2055,
+          "ymax": 1209
+        },
+        {
+          "text": "ison",
+          "xmin": 2051,
+          "ymin": 1179,
+          "xmax": 2122,
+          "ymax": 1209
+        },
+        {
+          "text": "offers",
+          "xmin": 2141,
+          "ymin": 1179,
+          "xmax": 2240,
+          "ymax": 1209
+        },
+        {
+          "text": "off",
+          "xmin": 2261,
+          "ymin": 1179,
+          "xmax": 2305,
+          "ymax": 1209
+        },
+        {
+          "text": "the",
+          "xmin": 2321,
+          "ymin": 1180,
+          "xmax": 2377,
+          "ymax": 1209
+        },
+        {
+          "text": "shelf",
+          "xmin": 2396,
+          "ymin": 1179,
+          "xmax": 2483,
+          "ymax": 1209
+        },
+        {
+          "text": "support",
+          "xmin": 2499,
+          "ymin": 1181,
+          "xmax": 2637,
+          "ymax": 1214
+        },
+        {
+          "text": "for",
+          "xmin": 2653,
+          "ymin": 1179,
+          "xmax": 2702,
+          "ymax": 1209
+        },
+        {
+          "text": "a",
+          "xmin": 2718,
+          "ymin": 1187,
+          "xmax": 2734,
+          "ymax": 1208
+        },
+        {
+          "text": "broad",
+          "xmin": 2758,
+          "ymin": 1179,
+          "xmax": 2856,
+          "ymax": 1209
+        },
+        {
+          "text": "set",
+          "xmin": 2879,
+          "ymin": 1181,
+          "xmax": 2933,
+          "ymax": 1209
+        },
+        {
+          "text": "of",
+          "xmin": 2949,
+          "ymin": 1179,
+          "xmax": 2983,
+          "ymax": 1209
+        },
+        {
+          "text": "wireless",
+          "xmin": 3000,
+          "ymin": 1179,
+          "xmax": 3145,
+          "ymax": 1209
+        },
+        {
+          "text": "and",
+          "xmin": 1801,
+          "ymin": 1229,
+          "xmax": 1864,
+          "ymax": 1258
+        },
+        {
+          "text": "wireline",
+          "xmin": 1882,
+          "ymin": 1229,
+          "xmax": 2021,
+          "ymax": 1260
+        },
+        {
+          "text": "a",
+          "xmin": 2421,
+          "ymin": 1237,
+          "xmax": 2437,
+          "ymax": 1257
+        },
+        {
+          "text": "set",
+          "xmin": 2577,
+          "ymin": 1231,
+          "xmax": 2631,
+          "ymax": 1258
+        },
+        {
+          "text": "1",
+          "xmin": 2765,
+          "ymin": 1231,
+          "xmax": 2771,
+          "ymax": 1255
+        },
+        {
+          "text": "System",
+          "xmin": 164,
+          "ymin": 1263,
+          "xmax": 316,
+          "ymax": 1315
+        },
+        {
+          "text": "Security",
+          "xmin": 348,
+          "ymin": 1249,
+          "xmax": 548,
+          "ymax": 1314
+        },
+        {
+          "text": "protocols",
+          "xmin": 2039,
+          "ymin": 1229,
+          "xmax": 2202,
+          "ymax": 1263
+        },
+        {
+          "text": "along",
+          "xmin": 2219,
+          "ymin": 1229,
+          "xmax": 2316,
+          "ymax": 1266
+        },
+        {
+          "text": "with",
+          "xmin": 2333,
+          "ymin": 1229,
+          "xmax": 2403,
+          "ymax": 1258
+        },
+        {
+          "text": "broad",
+          "xmin": 2458,
+          "ymin": 1229,
+          "xmax": 2557,
+          "ymax": 1258
+        },
+        {
+          "text": "of",
+          "xmin": 2645,
+          "ymin": 1229,
+          "xmax": 2678,
+          "ymax": 1258
+        },
+        {
+          "text": "lo",
+          "xmin": 2695,
+          "ymin": 1229,
+          "xmax": 2748,
+          "ymax": 1258
+        },
+        {
+          "text": "M2M",
+          "xmin": 2791,
+          "ymin": 1229,
+          "xmax": 2877,
+          "ymax": 1258
+        },
+        {
+          "text": "protocols",
+          "xmin": 2896,
+          "ymin": 1230,
+          "xmax": 3061,
+          "ymax": 1263
+        },
+        {
+          "text": "with",
+          "xmin": 3076,
+          "ymin": 1229,
+          "xmax": 3145,
+          "ymax": 1258
+        },
+        {
+          "text": "full",
+          "xmin": 1800,
+          "ymin": 1279,
+          "xmax": 1853,
+          "ymax": 1309
+        },
+        {
+          "text": "security",
+          "xmin": 1891,
+          "ymin": 1279,
+          "xmax": 2038,
+          "ymax": 1315
+        },
+        {
+          "text": "provisions",
+          "xmin": 2077,
+          "ymin": 1279,
+          "xmax": 2267,
+          "ymax": 1315
+        },
+        {
+          "text": "which",
+          "xmin": 2305,
+          "ymin": 1279,
+          "xmax": 2410,
+          "ymax": 1309
+        },
+        {
+          "text": "are",
+          "xmin": 2452,
+          "ymin": 1287,
+          "xmax": 2508,
+          "ymax": 1309
+        },
+        {
+          "text": "all",
+          "xmin": 2548,
+          "ymin": 1280,
+          "xmax": 2587,
+          "ymax": 1309
+        },
+        {
+          "text": "necessary",
+          "xmin": 2628,
+          "ymin": 1287,
+          "xmax": 2820,
+          "ymax": 1315
+        },
+        {
+          "text": "for",
+          "xmin": 2856,
+          "ymin": 1279,
+          "xmax": 2907,
+          "ymax": 1309
+        },
+        {
+          "text": "application",
+          "xmin": 2944,
+          "ymin": 1279,
+          "xmax": 3145,
+          "ymax": 1315
+        },
+        {
+          "text": "implementation",
+          "xmin": 1802,
+          "ymin": 1329,
+          "xmax": 2078,
+          "ymax": 1364
+        },
+        {
+          "text": "on",
+          "xmin": 2108,
+          "ymin": 1337,
+          "xmax": 2150,
+          "ymax": 1358
+        },
+        {
+          "text": "microcontrol",
+          "xmin": 2181,
+          "ymin": 1330,
+          "xmax": 2403,
+          "ymax": 1358
+        },
+        {
+          "text": "ller",
+          "xmin": 2396,
+          "ymin": 1330,
+          "xmax": 2451,
+          "ymax": 1358
+        },
+        {
+          "text": "(",
+          "xmin": 2479,
+          "ymin": 1329,
+          "xmax": 2488,
+          "ymax": 1356
+        },
+        {
+          "text": "MCU",
+          "xmin": 2486,
+          "ymin": 1329,
+          "xmax": 2583,
+          "ymax": 1363
+        },
+        {
+          "text": ")",
+          "xmin": 2589,
+          "ymin": 1329,
+          "xmax": 2596,
+          "ymax": 1358
+        },
+        {
+          "text": "and",
+          "xmin": 2626,
+          "ymin": 1329,
+          "xmax": 2689,
+          "ymax": 1358
+        },
+        {
+          "text": "microprocessor",
+          "xmin": 2722,
+          "ymin": 1330,
+          "xmax": 3004,
+          "ymax": 1365
+        },
+        {
+          "text": "(",
+          "xmin": 3032,
+          "ymin": 1330,
+          "xmax": 3038,
+          "ymax": 1355
+        },
+        {
+          "text": "MPU",
+          "xmin": 3038,
+          "ymin": 1329,
+          "xmax": 3130,
+          "ymax": 1358
+        },
+        {
+          "text": "I",
+          "xmin": 3139,
+          "ymin": 1330,
+          "xmax": 3144,
+          "ymax": 1357
+        },
+        {
+          "text": "Today,",
+          "xmin": 150,
+          "ymin": 1370,
+          "xmax": 290,
+          "ymax": 1422
+        },
+        {
+          "text": "all",
+          "xmin": 309,
+          "ymin": 1370,
+          "xmax": 356,
+          "ymax": 1409
+        },
+        {
+          "text": "systems",
+          "xmin": 374,
+          "ymin": 1383,
+          "xmax": 536,
+          "ymax": 1418
+        },
+        {
+          "text": "need",
+          "xmin": 555,
+          "ymin": 1370,
+          "xmax": 654,
+          "ymax": 1410
+        },
+        {
+          "text": "to",
+          "xmin": 672,
+          "ymin": 1383,
+          "xmax": 711,
+          "ymax": 1410
+        },
+        {
+          "text": "be",
+          "xmin": 733,
+          "ymin": 1370,
+          "xmax": 779,
+          "ymax": 1409
+        },
+        {
+          "text": "secure.",
+          "xmin": 798,
+          "ymin": 1386,
+          "xmax": 938,
+          "ymax": 1410
+        },
+        {
+          "text": "The",
+          "xmin": 973,
+          "ymin": 1370,
+          "xmax": 1054,
+          "ymax": 1409
+        },
+        {
+          "text": "Unison",
+          "xmin": 1073,
+          "ymin": 1371,
+          "xmax": 1227,
+          "ymax": 1410
+        },
+        {
+          "text": "OS",
+          "xmin": 1248,
+          "ymin": 1372,
+          "xmax": 1313,
+          "ymax": 1409
+        },
+        {
+          "text": "offering",
+          "xmin": 1332,
+          "ymin": 1369,
+          "xmax": 1499,
+          "ymax": 1422
+        },
+        {
+          "text": "processors.",
+          "xmin": 1802,
+          "ymin": 1387,
+          "xmax": 2012,
+          "ymax": 1413
+        },
+        {
+          "text": "Examples",
+          "xmin": 2037,
+          "ymin": 1379,
+          "xmax": 2215,
+          "ymax": 1414
+        },
+        {
+          "text": "for",
+          "xmin": 2227,
+          "ymin": 1379,
+          "xmax": 2277,
+          "ymax": 1410
+        },
+        {
+          "text": "both",
+          "xmin": 2289,
+          "ymin": 1379,
+          "xmax": 2364,
+          "ymax": 1410
+        },
+        {
+          "text": "management",
+          "xmin": 2380,
+          "ymin": 1381,
+          "xmax": 2621,
+          "ymax": 1415
+        },
+        {
+          "text": "of",
+          "xmin": 2631,
+          "ymin": 1379,
+          "xmax": 2666,
+          "ymax": 1410
+        },
+        {
+          "text": "devices",
+          "xmin": 2677,
+          "ymin": 1380,
+          "xmax": 2813,
+          "ymax": 1410
+        },
+        {
+          "text": "and",
+          "xmin": 2828,
+          "ymin": 1379,
+          "xmax": 2892,
+          "ymax": 1410
+        },
+        {
+          "text": "management",
+          "xmin": 2909,
+          "ymin": 1381,
+          "xmax": 3148,
+          "ymax": 1415
+        },
+        {
+          "text": "includes",
+          "xmin": 150,
+          "ymin": 1417,
+          "xmax": 323,
+          "ymax": 1463
+        },
+        {
+          "text": "complete",
+          "xmin": 343,
+          "ymin": 1417,
+          "xmax": 534,
+          "ymax": 1476
+        },
+        {
+          "text": "security",
+          "xmin": 554,
+          "ymin": 1426,
+          "xmax": 721,
+          "ymax": 1474
+        },
+        {
+          "text": "features",
+          "xmin": 740,
+          "ymin": 1424,
+          "xmax": 903,
+          "ymax": 1464
+        },
+        {
+          "text": "and",
+          "xmin": 925,
+          "ymin": 1424,
+          "xmax": 998,
+          "ymax": 1464
+        },
+        {
+          "text": "this",
+          "xmin": 1019,
+          "ymin": 1424,
+          "xmax": 1093,
+          "ymax": 1463
+        },
+        {
+          "text": "is",
+          "xmin": 1113,
+          "ymin": 1426,
+          "xmax": 1144,
+          "ymax": 1462
+        },
+        {
+          "text": "extended",
+          "xmin": 1165,
+          "ymin": 1424,
+          "xmax": 1353,
+          "ymax": 1464
+        },
+        {
+          "text": "to",
+          "xmin": 1373,
+          "ymin": 1437,
+          "xmax": 1414,
+          "ymax": 1464
+        },
+        {
+          "text": "the",
+          "xmin": 1434,
+          "ymin": 1415,
+          "xmax": 1498,
+          "ymax": 1463
+        },
+        {
+          "text": "of",
+          "xmin": 1800,
+          "ymin": 1429,
+          "xmax": 1835,
+          "ymax": 1459
+        },
+        {
+          "text": "applications",
+          "xmin": 1848,
+          "ymin": 1429,
+          "xmax": 2065,
+          "ymax": 1464
+        },
+        {
+          "text": "services",
+          "xmin": 2081,
+          "ymin": 1429,
+          "xmax": 2230,
+          "ymax": 1459
+        },
+        {
+          "text": "are",
+          "xmin": 2247,
+          "ymin": 1437,
+          "xmax": 2302,
+          "ymax": 1459
+        },
+        {
+          "text": "also",
+          "xmin": 2320,
+          "ymin": 1430,
+          "xmax": 2392,
+          "ymax": 1459
+        },
+        {
+          "text": "provided",
+          "xmin": 2410,
+          "ymin": 1429,
+          "xmax": 2562,
+          "ymax": 1464
+        },
+        {
+          "text": "IoT",
+          "xmin": 151,
+          "ymin": 1479,
+          "xmax": 229,
+          "ymax": 1518
+        },
+        {
+          "text": "offerings",
+          "xmin": 249,
+          "ymin": 1474,
+          "xmax": 436,
+          "ymax": 1530
+        },
+        {
+          "text": "in",
+          "xmin": 454,
+          "ymin": 1480,
+          "xmax": 491,
+          "ymax": 1517
+        },
+        {
+          "text": "a",
+          "xmin": 513,
+          "ymin": 1494,
+          "xmax": 530,
+          "ymax": 1514
+        },
+        {
+          "text": "variety",
+          "xmin": 551,
+          "ymin": 1471,
+          "xmax": 699,
+          "ymax": 1528
+        },
+        {
+          "text": "of",
+          "xmin": 717,
+          "ymin": 1477,
+          "xmax": 759,
+          "ymax": 1517
+        },
+        {
+          "text": "ways.",
+          "xmin": 777,
+          "ymin": 1494,
+          "xmax": 894,
+          "ymax": 1527
+        },
+        {
+          "text": "Please",
+          "xmin": 933,
+          "ymin": 1478,
+          "xmax": 1060,
+          "ymax": 1518
+        },
+        {
+          "text": "refer",
+          "xmin": 1080,
+          "ymin": 1477,
+          "xmax": 1179,
+          "ymax": 1517
+        },
+        {
+          "text": "to",
+          "xmin": 1198,
+          "ymin": 1491,
+          "xmax": 1237,
+          "ymax": 1518
+        },
+        {
+          "text": "the",
+          "xmin": 1259,
+          "ymin": 1478,
+          "xmax": 1322,
+          "ymax": 1517
+        },
+        {
+          "text": "Unison",
+          "xmin": 1343,
+          "ymin": 1480,
+          "xmax": 1497,
+          "ymax": 1518
+        },
+        {
+          "text": "RTOS",
+          "xmin": 151,
+          "ymin": 1534,
+          "xmax": 284,
+          "ymax": 1571
+        },
+        {
+          "text": "System",
+          "xmin": 304,
+          "ymin": 1528,
+          "xmax": 451,
+          "ymax": 1585
+        },
+        {
+          "text": "Security",
+          "xmin": 474,
+          "ymin": 1534,
+          "xmax": 646,
+          "ymax": 1582
+        },
+        {
+          "text": "data",
+          "xmin": 665,
+          "ymin": 1528,
+          "xmax": 752,
+          "ymax": 1573
+        },
+        {
+          "text": "sheet",
+          "xmin": 771,
+          "ymin": 1521,
+          "xmax": 878,
+          "ymax": 1573
+        },
+        {
+          "text": "for",
+          "xmin": 895,
+          "ymin": 1532,
+          "xmax": 958,
+          "ymax": 1573
+        },
+        {
+          "text": "Unison",
+          "xmin": 977,
+          "ymin": 1535,
+          "xmax": 1130,
+          "ymax": 1573
+        },
+        {
+          "text": "OS",
+          "xmin": 1153,
+          "ymin": 1535,
+          "xmax": 1218,
+          "ymax": 1571
+        },
+        {
+          "text": "details,",
+          "xmin": 1238,
+          "ymin": 1533,
+          "xmax": 1383,
+          "ymax": 1577
+        },
+        {
+          "text": "aspects",
+          "xmin": 232,
+          "ymin": 1600,
+          "xmax": 377,
+          "ymax": 1636
+        },
+        {
+          "text": "here.",
+          "xmin": 1301,
+          "ymin": 1579,
+          "xmax": 1402,
+          "ymax": 1624
+        },
+        {
+          "text": "only",
+          "xmin": 1404,
+          "ymin": 1533,
+          "xmax": 1499,
+          "ymax": 1583
+        },
+        {
+          "text": "the",
+          "xmin": 151,
+          "ymin": 1587,
+          "xmax": 214,
+          "ymax": 1625
+        },
+        {
+          "text": "related",
+          "xmin": 394,
+          "ymin": 1587,
+          "xmax": 536,
+          "ymax": 1627
+        },
+        {
+          "text": "to",
+          "xmin": 553,
+          "ymin": 1600,
+          "xmax": 594,
+          "ymax": 1627
+        },
+        {
+          "text": "IoT",
+          "xmin": 612,
+          "ymin": 1580,
+          "xmax": 689,
+          "ymax": 1625
+        },
+        {
+          "text": "and",
+          "xmin": 706,
+          "ymin": 1587,
+          "xmax": 780,
+          "ymax": 1625
+        },
+        {
+          "text": "M2M",
+          "xmin": 796,
+          "ymin": 1590,
+          "xmax": 911,
+          "ymax": 1625
+        },
+        {
+          "text": "will",
+          "xmin": 929,
+          "ymin": 1587,
+          "xmax": 1007,
+          "ymax": 1625
+        },
+        {
+          "text": "be",
+          "xmin": 1026,
+          "ymin": 1587,
+          "xmax": 1072,
+          "ymax": 1625
+        },
+        {
+          "text": "discussed",
+          "xmin": 1089,
+          "ymin": 1587,
+          "xmax": 1285,
+          "ymax": 1627
+        },
+        {
+          "text": "Current",
+          "xmin": 1802,
+          "ymin": 1575,
+          "xmax": 1972,
+          "ymax": 1612
+        },
+        {
+          "text": "Unison",
+          "xmin": 1987,
+          "ymin": 1574,
+          "xmax": 2141,
+          "ymax": 1612
+        },
+        {
+          "text": "RTOS",
+          "xmin": 2159,
+          "ymin": 1574,
+          "xmax": 2290,
+          "ymax": 1612
+        },
+        {
+          "text": "IoT",
+          "xmin": 2310,
+          "ymin": 1574,
+          "xmax": 2386,
+          "ymax": 1612
+        },
+        {
+          "text": "and",
+          "xmin": 2403,
+          "ymin": 1573,
+          "xmax": 2476,
+          "ymax": 1612
+        },
+        {
+          "text": "M2M",
+          "xmin": 2494,
+          "ymin": 1576,
+          "xmax": 2608,
+          "ymax": 1612
+        },
+        {
+          "text": "Protocol",
+          "xmin": 2628,
+          "ymin": 1573,
+          "xmax": 2811,
+          "ymax": 1612
+        },
+        {
+          "text": "Roadmap",
+          "xmin": 2828,
+          "ymin": 1573,
+          "xmax": 3029,
+          "ymax": 1623
+        },
+        {
+          "text": "|",
+          "xmin": 3036,
+          "ymin": 1590,
+          "xmax": 3038,
+          "ymax": 1596
+        },
+        {
+          "text": "CoAP",
+          "xmin": 1928,
+          "ymin": 1658,
+          "xmax": 2061,
+          "ymax": 1695
+        },
+        {
+          "text": "very",
+          "xmin": 1988,
+          "ymin": 1729,
+          "xmax": 2081,
+          "ymax": 1763
+        },
+        {
+          "text": "security",
+          "xmin": 1990,
+          "ymin": 1762,
+          "xmax": 2156,
+          "ymax": 1822
+        },
+        {
+          "text": "light",
+          "xmin": 2097,
+          "ymin": 1713,
+          "xmax": 2194,
+          "ymax": 1765
+        },
+        {
+          "text": "clients",
+          "xmin": 2209,
+          "ymin": 1713,
+          "xmax": 2342,
+          "ymax": 1752
+        },
+        {
+          "text": "Communications",
+          "xmin": 164,
+          "ymin": 1787,
+          "xmax": 543,
+          "ymax": 1826
+        },
+        {
+          "text": "Protocols",
+          "xmin": 586,
+          "ymin": 1787,
+          "xmax": 801,
+          "ymax": 1826
+        },
+        {
+          "text": "of",
+          "xmin": 2174,
+          "ymin": 1770,
+          "xmax": 2217,
+          "ymax": 1811
+        },
+        {
+          "text": "a",
+          "xmin": 2232,
+          "ymin": 1788,
+          "xmax": 2249,
+          "ymax": 1808
+        },
+        {
+          "text": "unique",
+          "xmin": 2266,
+          "ymin": 1772,
+          "xmax": 2411,
+          "ymax": 1816
+        },
+        {
+          "text": "nature",
+          "xmin": 2426,
+          "ymin": 1784,
+          "xmax": 2560,
+          "ymax": 1810
+        },
+        {
+          "text": "requires",
+          "xmin": 1990,
+          "ymin": 1823,
+          "xmax": 2159,
+          "ymax": 1878
+        },
+        {
+          "text": "special",
+          "xmin": 2176,
+          "ymin": 1829,
+          "xmax": 2315,
+          "ymax": 1881
+        },
+        {
+          "text": "server",
+          "xmin": 2331,
+          "ymin": 1845,
+          "xmax": 2457,
+          "ymax": 1869
+        },
+        {
+          "text": "Although",
+          "xmin": 151,
+          "ymin": 1899,
+          "xmax": 352,
+          "ymax": 1948
+        },
+        {
+          "text": "there",
+          "xmin": 372,
+          "ymin": 1899,
+          "xmax": 477,
+          "ymax": 1937
+        },
+        {
+          "text": "is",
+          "xmin": 494,
+          "ymin": 1900,
+          "xmax": 524,
+          "ymax": 1936
+        },
+        {
+          "text": "many",
+          "xmin": 544,
+          "ymin": 1915,
+          "xmax": 661,
+          "ymax": 1949
+        },
+        {
+          "text": "features",
+          "xmin": 677,
+          "ymin": 1899,
+          "xmax": 840,
+          "ymax": 1939
+        },
+        {
+          "text": "and",
+          "xmin": 860,
+          "ymin": 1899,
+          "xmax": 934,
+          "ymax": 1939
+        },
+        {
+          "text": "requirements",
+          "xmin": 953,
+          "ymin": 1901,
+          "xmax": 1230,
+          "ymax": 1947
+        },
+        {
+          "text": "for",
+          "xmin": 1249,
+          "ymin": 1898,
+          "xmax": 1310,
+          "ymax": 1939
+        },
+        {
+          "text": "IoT",
+          "xmin": 1329,
+          "ymin": 1900,
+          "xmax": 1405,
+          "ymax": 1939
+        },
+        {
+          "text": "and",
+          "xmin": 1424,
+          "ymin": 1899,
+          "xmax": 1498,
+          "ymax": 1939
+        },
+        {
+          "text": "a",
+          "xmin": 1953,
+          "ymin": 1898,
+          "xmax": 1964,
+          "ymax": 1910
+        },
+        {
+          "text": "M2M",
+          "xmin": 150,
+          "ymin": 1957,
+          "xmax": 264,
+          "ymax": 1991
+        },
+        {
+          "text": "of",
+          "xmin": 854,
+          "ymin": 1953,
+          "xmax": 897,
+          "ymax": 1994
+        },
+        {
+          "text": "operation",
+          "xmin": 1952,
+          "ymin": 1921,
+          "xmax": 2152,
+          "ymax": 1974
+        },
+        {
+          "text": "requires",
+          "xmin": 1990,
+          "ymin": 1879,
+          "xmax": 2158,
+          "ymax": 1938
+        },
+        {
+          "text": "the",
+          "xmin": 1434,
+          "ymin": 1954,
+          "xmax": 1498,
+          "ymax": 1994
+        },
+        {
+          "text": "awaiting",
+          "xmin": 2171,
+          "ymin": 1917,
+          "xmax": 2348,
+          "ymax": 1973
+        },
+        {
+          "text": "additional",
+          "xmin": 2177,
+          "ymin": 1877,
+          "xmax": 2387,
+          "ymax": 1931
+        },
+        {
+          "text": "the",
+          "xmin": 527,
+          "ymin": 1954,
+          "xmax": 591,
+          "ymax": 1994
+        },
+        {
+          "text": "pratogolsfor",
+          "xmin": 2356,
+          "ymin": 1886,
+          "xmax": 2693,
+          "ymax": 1964
+        },
+        {
+          "text": "for",
+          "xmin": 2620,
+          "ymin": 1886,
+          "xmax": 2682,
+          "ymax": 1930
+        },
+        {
+          "text": "publish",
+          "xmin": 2696,
+          "ymin": 1886,
+          "xmax": 2854,
+          "ymax": 1938
+        },
+        {
+          "text": "subscribe",
+          "xmin": 2870,
+          "ymin": 1886,
+          "xmax": 3067,
+          "ymax": 1926
+        },
+        {
+          "text": "offerings,",
+          "xmin": 298,
+          "ymin": 1942,
+          "xmax": 496,
+          "ymax": 2006
+        },
+        {
+          "text": "core",
+          "xmin": 621,
+          "ymin": 1970,
+          "xmax": 709,
+          "ymax": 1993
+        },
+        {
+          "text": "part",
+          "xmin": 739,
+          "ymin": 1967,
+          "xmax": 825,
+          "ymax": 2005
+        },
+        {
+          "text": "RoweBots",
+          "xmin": 926,
+          "ymin": 1949,
+          "xmax": 1144,
+          "ymax": 1994
+        },
+        {
+          "text": "communication",
+          "xmin": 151,
+          "ymin": 2005,
+          "xmax": 481,
+          "ymax": 2048
+        },
+        {
+          "text": "protocol",
+          "xmin": 504,
+          "ymin": 2008,
+          "xmax": 687,
+          "ymax": 2059
+        },
+        {
+          "text": "offericE",
+          "xmin": 1167,
+          "ymin": 1953,
+          "xmax": 1343,
+          "ymax": 2048
+        },
+        {
+          "text": "is",
+          "xmin": 1372,
+          "ymin": 1956,
+          "xmax": 1402,
+          "ymax": 1993
+        },
+        {
+          "text": "support",
+          "xmin": 710,
+          "ymin": 2021,
+          "xmax": 875,
+          "ymax": 2060
+        },
+        {
+          "text": "and",
+          "xmin": 898,
+          "ymin": 2008,
+          "xmax": 970,
+          "ymax": 2048
+        },
+        {
+          "text": "examples",
+          "xmin": 997,
+          "ymin": 2008,
+          "xmax": 1188,
+          "ymax": 2060
+        },
+        {
+          "text": "enable",
+          "xmin": 1365,
+          "ymin": 2008,
+          "xmax": 1498,
+          "ymax": 2048
+        },
+        {
+          "text": "udp",
+          "xmin": 1981,
+          "ymin": 1967,
+          "xmax": 2069,
+          "ymax": 2032
+        },
+        {
+          "text": "based",
+          "xmin": 2088,
+          "ymin": 1981,
+          "xmax": 2204,
+          "ymax": 2021
+        },
+        {
+          "text": "the",
+          "xmin": 151,
+          "ymin": 2062,
+          "xmax": 214,
+          "ymax": 2102
+        },
+        {
+          "text": "sensor",
+          "xmin": 231,
+          "ymin": 2078,
+          "xmax": 363,
+          "ymax": 2101
+        },
+        {
+          "text": "systems",
+          "xmin": 381,
+          "ymin": 2075,
+          "xmax": 544,
+          "ymax": 2109
+        },
+        {
+          "text": "to",
+          "xmin": 561,
+          "ymin": 2075,
+          "xmax": 600,
+          "ymax": 2101
+        },
+        {
+          "text": "talk",
+          "xmin": 620,
+          "ymin": 2062,
+          "xmax": 695,
+          "ymax": 2102
+        },
+        {
+          "text": "to",
+          "xmin": 714,
+          "ymin": 2075,
+          "xmax": 753,
+          "ymax": 2101
+        },
+        {
+          "text": "the",
+          "xmin": 765,
+          "ymin": 2052,
+          "xmax": 835,
+          "ymax": 2102
+        },
+        {
+          "text": "IoT",
+          "xmin": 852,
+          "ymin": 2063,
+          "xmax": 929,
+          "ymax": 2102
+        },
+        {
+          "text": "gateway",
+          "xmin": 947,
+          "ymin": 2075,
+          "xmax": 1119,
+          "ymax": 2113
+        },
+        {
+          "text": "(",
+          "xmin": 1136,
+          "ymin": 2066,
+          "xmax": 1147,
+          "ymax": 2104
+        },
+        {
+          "text": "(or",
+          "xmin": 1142,
+          "ymin": 2065,
+          "xmax": 1197,
+          "ymax": 2105
+        },
+        {
+          "text": "you",
+          "xmin": 150,
+          "ymin": 2132,
+          "xmax": 231,
+          "ymax": 2165
+        },
+        {
+          "text": "prefer",
+          "xmin": 252,
+          "ymin": 2116,
+          "xmax": 383,
+          "ymax": 2168
+        },
+        {
+          "text": ")",
+          "xmin": 383,
+          "ymin": 2120,
+          "xmax": 392,
+          "ymax": 2155
+        },
+        {
+          "text": "and",
+          "xmin": 419,
+          "ymin": 2116,
+          "xmax": 491,
+          "ymax": 2156
+        },
+        {
+          "text": "the",
+          "xmin": 515,
+          "ymin": 2116,
+          "xmax": 578,
+          "ymax": 2154
+        },
+        {
+          "text": "edge",
+          "xmin": 602,
+          "ymin": 2116,
+          "xmax": 695,
+          "ymax": 2168
+        },
+        {
+          "text": "talk",
+          "xmin": 934,
+          "ymin": 2107,
+          "xmax": 1013,
+          "ymax": 2156
+        },
+        {
+          "text": "the",
+          "xmin": 1095,
+          "ymin": 2108,
+          "xmax": 1162,
+          "ymax": 2154
+        },
+        {
+          "text": "backend",
+          "xmin": 1185,
+          "ymin": 2106,
+          "xmax": 1357,
+          "ymax": 2156
+        },
+        {
+          "text": "edge",
+          "xmin": 1213,
+          "ymin": 2062,
+          "xmax": 1307,
+          "ymax": 2120
+        },
+        {
+          "text": "router",
+          "xmin": 1323,
+          "ymin": 2075,
+          "xmax": 1454,
+          "ymax": 2101
+        },
+        {
+          "text": "if",
+          "xmin": 1472,
+          "ymin": 2062,
+          "xmax": 1498,
+          "ymax": 2098
+        },
+        {
+          "text": "router",
+          "xmin": 718,
+          "ymin": 2129,
+          "xmax": 848,
+          "ymax": 2155
+        },
+        {
+          "text": "to",
+          "xmin": 870,
+          "ymin": 2129,
+          "xmax": 910,
+          "ymax": 2155
+        },
+        {
+          "text": "to",
+          "xmin": 1034,
+          "ymin": 2129,
+          "xmax": 1075,
+          "ymax": 2155
+        },
+        {
+          "text": "cloud",
+          "xmin": 1382,
+          "ymin": 2116,
+          "xmax": 1498,
+          "ymax": 2156
+        },
+        {
+          "text": "system",
+          "xmin": 151,
+          "ymin": 2183,
+          "xmax": 300,
+          "ymax": 2216
+        },
+        {
+          "text": "www.rowebots.com",
+          "xmin": 149,
+          "ymin": 2407,
+          "xmax": 588,
+          "ymax": 2441
+        },
+        {
+          "text": "Rowebots",
+          "xmin": 2611,
+          "ymin": 2411,
+          "xmax": 2758,
+          "ymax": 2436
+        },
+        {
+          "text": "Limited",
+          "xmin": 2774,
+          "ymin": 2411,
+          "xmax": 2882,
+          "ymax": 2436
+        },
+        {
+          "text": "C",
+          "xmin": 2897,
+          "ymin": 2409,
+          "xmax": 2920,
+          "ymax": 2432
+        },
+        {
+          "text": "2016.",
+          "xmin": 2939,
+          "ymin": 2410,
+          "xmax": 3020,
+          "ymax": 2436
+        },
+        {
+          "text": "page",
+          "xmin": 3034,
+          "ymin": 2419,
+          "xmax": 3101,
+          "ymax": 2444
+        },
+        {
+          "text": "3",
+          "xmin": 3130,
+          "ymin": 2409,
+          "xmax": 3143,
+          "ymax": 2434
+        }
+      ],
+      "raw_text": "Due to the variety of environments that generally work with these implementations platforms connect business protocols and various language Machine to Machine (M2M 1 System Architecture to for logic, RoweBots flexible offcrings are to deliver a varicty of solutions in this to ensure IT Secure Sensors COTS area & Cloud Management & needs are addressed Sensor Platforms Communications Infrastructure Custom Applications Custom Phones Management Intearatec Apps Smart Phones | Tablets Tables Sensor & Computers Management Billing Integrated and Computers Application App Billing COTS Tool COTS Too Platforms Platforms With the plethora of devices available today to receive data, and Internet the growth in this list of devices with cxpcrimental devices in Secure smart watches, home has been displays and other Communication systems | access to Unison os Server Server or Display YOS & Hardware (oS & Hardware information never easier The access to information a A - will accustomed expand exponentially too information particularly as users immediate get MCU to and use their devices MPU.FPGA more. Figure 2 | Uni ison offers off the shelf support for a broad set of wireless and wireline a set 1 System Security protocols along with broad of lo M2M protocols with full security provisions which are all necessary for application implementation on microcontrol ller ( MCU ) and microprocessor ( MPU I Today, all systems need to be secure. The Unison OS offering processors. Examples for both management of devices and management includes complete security features and this is extended to the of applications services are also provided IoT offerings in a variety of ways. Please refer to the Unison RTOS System Security data sheet for Unison OS details, aspects here. only the related to IoT and M2M will be discussed Current Unison RTOS IoT and M2M Protocol Roadmap | CoAP very security light clients Communications Protocols of a unique nature requires special server Although there is many features and requirements for IoT and a M2M of operation requires the awaiting additional the pratogolsfor for publish subscribe offerings, core part RoweBots communication protocol offericE is support and examples enable udp based the sensor systems to talk to the IoT gateway ( (or you prefer ) and the edge talk the backend edge router if router to to cloud system www.rowebots.com Rowebots Limited C 2016. page 3 "
+    },
+    {
+      "page": 3,
+      "image_url": "https://nnts.imgix.net/uploadedfiles/rawocr/68607257-7ede-44cd-bbf8-03a44ff7b6b6-4.jpeg?auto=compress&expires=1700014722&or=0&s=81b2931ab14df33a2c67b55584ae0ff3",
+      "size": {
+        "width": 3300,
+        "height": 2550
+      },
+      "words": [
+        {
+          "text": "a",
+          "xmin": 213,
+          "ymin": 165,
+          "xmax": 227,
+          "ymax": 178
+        },
+        {
+          "text": "MQTT",
+          "xmin": 249,
+          "ymin": 155,
+          "xmax": 404,
+          "ymax": 202
+        },
+        {
+          "text": "Addi",
+          "xmin": 1810,
+          "ymin": 163,
+          "xmax": 1901,
+          "ymax": 202
+        },
+        {
+          "text": "itional",
+          "xmin": 1900,
+          "ymin": 163,
+          "xmax": 2052,
+          "ymax": 202
+        },
+        {
+          "text": "Information",
+          "xmin": 2095,
+          "ymin": 163,
+          "xmax": 2369,
+          "ymax": 201
+        },
+        {
+          "text": "full",
+          "xmin": 340,
+          "ymin": 211,
+          "xmax": 408,
+          "ymax": 251
+        },
+        {
+          "text": "publish",
+          "xmin": 425,
+          "ymin": 212,
+          "xmax": 581,
+          "ymax": 263
+        },
+        {
+          "text": "subscribe",
+          "xmin": 598,
+          "ymin": 212,
+          "xmax": 795,
+          "ymax": 251
+        },
+        {
+          "text": "/",
+          "xmin": 814,
+          "ymin": 217,
+          "xmax": 825,
+          "ymax": 245
+        },
+        {
+          "text": "read",
+          "xmin": 844,
+          "ymin": 212,
+          "xmax": 932,
+          "ymax": 251
+        },
+        {
+          "text": "write",
+          "xmin": 948,
+          "ymin": 214,
+          "xmax": 1057,
+          "ymax": 250
+        },
+        {
+          "text": "TCP",
+          "xmin": 339,
+          "ymin": 262,
+          "xmax": 439,
+          "ymax": 308
+        },
+        {
+          "text": "based",
+          "xmin": 457,
+          "ymin": 269,
+          "xmax": 571,
+          "ymax": 308
+        },
+        {
+          "text": "IBM",
+          "xmin": 340,
+          "ymin": 330,
+          "xmax": 434,
+          "ymax": 365
+        },
+        {
+          "text": "supported",
+          "xmin": 454,
+          "ymin": 327,
+          "xmax": 665,
+          "ymax": 383
+        },
+        {
+          "text": "Other",
+          "xmin": 1799,
+          "ymin": 328,
+          "xmax": 1913,
+          "ymax": 363
+        },
+        {
+          "text": "seperately",
+          "xmin": 1929,
+          "ymin": 328,
+          "xmax": 2122,
+          "ymax": 375
+        },
+        {
+          "text": "available",
+          "xmin": 2137,
+          "ymin": 328,
+          "xmax": 2302,
+          "ymax": 363
+        },
+        {
+          "text": "RoweBots",
+          "xmin": 2315,
+          "ymin": 331,
+          "xmax": 2515,
+          "ymax": 363
+        },
+        {
+          "text": "files",
+          "xmin": 2530,
+          "ymin": 328,
+          "xmax": 2606,
+          "ymax": 365
+        },
+        {
+          "text": "for",
+          "xmin": 2620,
+          "ymin": 328,
+          "xmax": 2677,
+          "ymax": 365
+        },
+        {
+          "text": "Unison",
+          "xmin": 2691,
+          "ymin": 330,
+          "xmax": 2831,
+          "ymax": 363
+        },
+        {
+          "text": "OS",
+          "xmin": 2849,
+          "ymin": 330,
+          "xmax": 2909,
+          "ymax": 365
+        },
+        {
+          "text": "bytes",
+          "xmin": 302,
+          "ymin": 410,
+          "xmax": 414,
+          "ymax": 474
+        },
+        {
+          "text": "small",
+          "xmin": 340,
+          "ymin": 384,
+          "xmax": 449,
+          "ymax": 427
+        },
+        {
+          "text": "RAM",
+          "xmin": 425,
+          "ymin": 417,
+          "xmax": 545,
+          "ymax": 460
+        },
+        {
+          "text": "efficient",
+          "xmin": 466,
+          "ymin": 378,
+          "xmax": 635,
+          "ymax": 424
+        },
+        {
+          "text": "client",
+          "xmin": 651,
+          "ymin": 384,
+          "xmax": 766,
+          "ymax": 424
+        },
+        {
+          "text": "implementation",
+          "xmin": 780,
+          "ymin": 384,
+          "xmax": 1112,
+          "ymax": 434
+        },
+        {
+          "text": "(",
+          "xmin": 1132,
+          "ymin": 387,
+          "xmax": 1144,
+          "ymax": 417
+        },
+        {
+          "text": "3.5K",
+          "xmin": 1142,
+          "ymin": 387,
+          "xmax": 1241,
+          "ymax": 424
+        },
+        {
+          "text": "Flash",
+          "xmin": 1263,
+          "ymin": 384,
+          "xmax": 1373,
+          "ymax": 424
+        },
+        {
+          "text": "|",
+          "xmin": 1371,
+          "ymin": 409,
+          "xmax": 1380,
+          "ymax": 421
+        },
+        {
+          "text": "128",
+          "xmin": 1407,
+          "ymin": 389,
+          "xmax": 1473,
+          "ymax": 424
+        },
+        {
+          "text": "|",
+          "xmin": 555,
+          "ymin": 430,
+          "xmax": 558,
+          "ymax": 438
+        },
+        {
+          "text": "File",
+          "xmin": 1982,
+          "ymin": 444,
+          "xmax": 2055,
+          "ymax": 479
+        },
+        {
+          "text": "Systems",
+          "xmin": 2069,
+          "ymin": 446,
+          "xmax": 2224,
+          "ymax": 491
+        },
+        {
+          "text": "a",
+          "xmin": 213,
+          "ymin": 582,
+          "xmax": 224,
+          "ymax": 593
+        },
+        {
+          "text": "DDS",
+          "xmin": 250,
+          "ymin": 572,
+          "xmax": 354,
+          "ymax": 609
+        },
+        {
+          "text": "or",
+          "xmin": 372,
+          "ymin": 586,
+          "xmax": 417,
+          "ymax": 608
+        },
+        {
+          "text": "Distributed",
+          "xmin": 433,
+          "ymin": 570,
+          "xmax": 674,
+          "ymax": 610
+        },
+        {
+          "text": "Data",
+          "xmin": 694,
+          "ymin": 572,
+          "xmax": 793,
+          "ymax": 610
+        },
+        {
+          "text": "Service",
+          "xmin": 810,
+          "ymin": 571,
+          "xmax": 957,
+          "ymax": 610
+        },
+        {
+          "text": "System",
+          "xmin": 1983,
+          "ymin": 533,
+          "xmax": 2117,
+          "ymax": 575
+        },
+        {
+          "text": "Security",
+          "xmin": 2136,
+          "ymin": 533,
+          "xmax": 2293,
+          "ymax": 575
+        },
+        {
+          "text": "used",
+          "xmin": 340,
+          "ymin": 628,
+          "xmax": 432,
+          "ymax": 668
+        },
+        {
+          "text": "for",
+          "xmin": 451,
+          "ymin": 628,
+          "xmax": 513,
+          "ymax": 668
+        },
+        {
+          "text": "high",
+          "xmin": 528,
+          "ymin": 628,
+          "xmax": 617,
+          "ymax": 679
+        },
+        {
+          "text": "bandwidth",
+          "xmin": 638,
+          "ymin": 628,
+          "xmax": 862,
+          "ymax": 668
+        },
+        {
+          "text": "connections",
+          "xmin": 881,
+          "ymin": 629,
+          "xmax": 1132,
+          "ymax": 668
+        },
+        {
+          "text": "Wireless",
+          "xmin": 1982,
+          "ymin": 618,
+          "xmax": 2142,
+          "ymax": 652
+        },
+        {
+          "text": "a",
+          "xmin": 304,
+          "ymin": 698,
+          "xmax": 314,
+          "ymax": 709
+        },
+        {
+          "text": "best",
+          "xmin": 341,
+          "ymin": 686,
+          "xmax": 423,
+          "ymax": 726
+        },
+        {
+          "text": "for",
+          "xmin": 440,
+          "ymin": 685,
+          "xmax": 501,
+          "ymax": 726
+        },
+        {
+          "text": "shared",
+          "xmin": 517,
+          "ymin": 678,
+          "xmax": 651,
+          "ymax": 726
+        },
+        {
+          "text": "memory",
+          "xmin": 670,
+          "ymin": 702,
+          "xmax": 847,
+          "ymax": 735
+        },
+        {
+          "text": "or",
+          "xmin": 864,
+          "ymin": 702,
+          "xmax": 907,
+          "ymax": 724
+        },
+        {
+          "text": "fast",
+          "xmin": 924,
+          "ymin": 685,
+          "xmax": 999,
+          "ymax": 726
+        },
+        {
+          "text": "bus",
+          "xmin": 1015,
+          "ymin": 686,
+          "xmax": 1086,
+          "ymax": 726
+        },
+        {
+          "text": "based",
+          "xmin": 1104,
+          "ymin": 686,
+          "xmax": 1217,
+          "ymax": 726
+        },
+        {
+          "text": "systems",
+          "xmin": 1236,
+          "ymin": 699,
+          "xmax": 1397,
+          "ymax": 732
+        },
+        {
+          "text": "USB",
+          "xmin": 1982,
+          "ymin": 708,
+          "xmax": 2069,
+          "ymax": 741
+        },
+        {
+          "text": "a",
+          "xmin": 304,
+          "ymin": 755,
+          "xmax": 313,
+          "ymax": 764
+        },
+        {
+          "text": "large",
+          "xmin": 340,
+          "ymin": 743,
+          "xmax": 439,
+          "ymax": 795
+        },
+        {
+          "text": "memory",
+          "xmin": 456,
+          "ymin": 759,
+          "xmax": 633,
+          "ymax": 789
+        },
+        {
+          "text": "footprint",
+          "xmin": 650,
+          "ymin": 742,
+          "xmax": 842,
+          "ymax": 794
+        },
+        {
+          "text": "Remedytools",
+          "xmin": 1982,
+          "ymin": 792,
+          "xmax": 2239,
+          "ymax": 839
+        },
+        {
+          "text": "HTTP/RESTful",
+          "xmin": 250,
+          "ymin": 892,
+          "xmax": 594,
+          "ymax": 932
+        },
+        {
+          "text": "Internet",
+          "xmin": 1983,
+          "ymin": 881,
+          "xmax": 2139,
+          "ymax": 915
+        },
+        {
+          "text": "Protocols",
+          "xmin": 2154,
+          "ymin": 879,
+          "xmax": 2338,
+          "ymax": 915
+        },
+        {
+          "text": "easy",
+          "xmin": 341,
+          "ymin": 965,
+          "xmax": 429,
+          "ymax": 999
+        },
+        {
+          "text": "implementation",
+          "xmin": 444,
+          "ymin": 949,
+          "xmax": 777,
+          "ymax": 1000
+        },
+        {
+          "text": "standard",
+          "xmin": 340,
+          "ymin": 998,
+          "xmax": 520,
+          "ymax": 1047
+        },
+        {
+          "text": "Unison",
+          "xmin": 1982,
+          "ymin": 967,
+          "xmax": 2122,
+          "ymax": 1000
+        },
+        {
+          "text": "for",
+          "xmin": 2140,
+          "ymin": 965,
+          "xmax": 2197,
+          "ymax": 1002
+        },
+        {
+          "text": "implementation",
+          "xmin": 705,
+          "ymin": 1007,
+          "xmax": 1037,
+          "ymax": 1056
+        },
+        {
+          "text": "Specific",
+          "xmin": 2212,
+          "ymin": 965,
+          "xmax": 2359,
+          "ymax": 1010
+        },
+        {
+          "text": "Processor",
+          "xmin": 2374,
+          "ymin": 967,
+          "xmax": 2562,
+          "ymax": 1000
+        },
+        {
+          "text": "Families",
+          "xmin": 2577,
+          "ymin": 966,
+          "xmax": 2738,
+          "ymax": 1000
+        },
+        {
+          "text": "port",
+          "xmin": 538,
+          "ymin": 1020,
+          "xmax": 627,
+          "ymax": 1056
+        },
+        {
+          "text": "80",
+          "xmin": 643,
+          "ymin": 1012,
+          "xmax": 687,
+          "ymax": 1045
+        },
+        {
+          "text": "IT",
+          "xmin": 340,
+          "ymin": 1066,
+          "xmax": 388,
+          "ymax": 1102
+        },
+        {
+          "text": "departments",
+          "xmin": 406,
+          "ymin": 1059,
+          "xmax": 667,
+          "ymax": 1117
+        },
+        {
+          "text": "favor",
+          "xmin": 683,
+          "ymin": 1064,
+          "xmax": 791,
+          "ymax": 1103
+        },
+        {
+          "text": "this",
+          "xmin": 809,
+          "ymin": 1065,
+          "xmax": 883,
+          "ymax": 1105
+        },
+        {
+          "text": "incremental",
+          "xmin": 899,
+          "ymin": 1066,
+          "xmax": 1144,
+          "ymax": 1103
+        },
+        {
+          "text": "approach",
+          "xmin": 1165,
+          "ymin": 1065,
+          "xmax": 1356,
+          "ymax": 1117
+        },
+        {
+          "text": "Websockets",
+          "xmin": 250,
+          "ymin": 1213,
+          "xmax": 497,
+          "ymax": 1253
+        },
+        {
+          "text": "secure",
+          "xmin": 340,
+          "ymin": 1287,
+          "xmax": 469,
+          "ymax": 1309
+        },
+        {
+          "text": "easy",
+          "xmin": 341,
+          "ymin": 1344,
+          "xmax": 429,
+          "ymax": 1377
+        },
+        {
+          "text": "to",
+          "xmin": 445,
+          "ymin": 1341,
+          "xmax": 484,
+          "ymax": 1366
+        },
+        {
+          "text": "use",
+          "xmin": 502,
+          "ymin": 1344,
+          "xmax": 570,
+          "ymax": 1366
+        },
+        {
+          "text": "a",
+          "xmin": 303,
+          "ymin": 1398,
+          "xmax": 314,
+          "ymax": 1410
+        },
+        {
+          "text": "not",
+          "xmin": 339,
+          "ymin": 1399,
+          "xmax": 407,
+          "ymax": 1425
+        },
+        {
+          "text": "necessarily",
+          "xmin": 425,
+          "ymin": 1386,
+          "xmax": 653,
+          "ymax": 1431
+        },
+        {
+          "text": "widely",
+          "xmin": 668,
+          "ymin": 1386,
+          "xmax": 813,
+          "ymax": 1436
+        },
+        {
+          "text": "supported",
+          "xmin": 828,
+          "ymin": 1386,
+          "xmax": 1042,
+          "ymax": 1438
+        },
+        {
+          "text": "yet",
+          "xmin": 1058,
+          "ymin": 1399,
+          "xmax": 1123,
+          "ymax": 1435
+        },
+        {
+          "text": "Odata",
+          "xmin": 251,
+          "ymin": 1534,
+          "xmax": 380,
+          "ymax": 1574
+        },
+        {
+          "text": "O",
+          "xmin": 297,
+          "ymin": 1594,
+          "xmax": 322,
+          "ymax": 1619
+        },
+        {
+          "text": "Used",
+          "xmin": 340,
+          "ymin": 1592,
+          "xmax": 447,
+          "ymax": 1630
+        },
+        {
+          "text": "to",
+          "xmin": 465,
+          "ymin": 1605,
+          "xmax": 504,
+          "ymax": 1632
+        },
+        {
+          "text": "encapsulate",
+          "xmin": 523,
+          "ymin": 1592,
+          "xmax": 764,
+          "ymax": 1643
+        },
+        {
+          "text": "xm",
+          "xmin": 780,
+          "ymin": 1594,
+          "xmax": 849,
+          "ymax": 1630
+        },
+        {
+          "text": "I",
+          "xmin": 850,
+          "ymin": 1595,
+          "xmax": 851,
+          "ymax": 1620
+        },
+        {
+          "text": "documents",
+          "xmin": 875,
+          "ymin": 1592,
+          "xmax": 1105,
+          "ymax": 1632
+        },
+        {
+          "text": "a",
+          "xmin": 302,
+          "ymin": 1659,
+          "xmax": 315,
+          "ymax": 1679
+        },
+        {
+          "text": "Used",
+          "xmin": 340,
+          "ymin": 1654,
+          "xmax": 446,
+          "ymax": 1694
+        },
+        {
+          "text": "with",
+          "xmin": 464,
+          "ymin": 1654,
+          "xmax": 559,
+          "ymax": 1694
+        },
+        {
+          "text": "HTTP/RESTful",
+          "xmin": 576,
+          "ymin": 1654,
+          "xmax": 919,
+          "ymax": 1692
+        },
+        {
+          "text": "solutions",
+          "xmin": 937,
+          "ymin": 1654,
+          "xmax": 1128,
+          "ymax": 1694
+        },
+        {
+          "text": "for",
+          "xmin": 1144,
+          "ymin": 1653,
+          "xmax": 1206,
+          "ymax": 1694
+        },
+        {
+          "text": "document",
+          "xmin": 1223,
+          "ymin": 1654,
+          "xmax": 1435,
+          "ymax": 1694
+        },
+        {
+          "text": "transmission",
+          "xmin": 301,
+          "ymin": 1700,
+          "xmax": 564,
+          "ymax": 1735
+        },
+        {
+          "text": "ISON",
+          "xmin": 341,
+          "ymin": 1755,
+          "xmax": 466,
+          "ymax": 1796
+        },
+        {
+          "text": "and",
+          "xmin": 487,
+          "ymin": 1753,
+          "xmax": 558,
+          "ymax": 1793
+        },
+        {
+          "text": "BSON",
+          "xmin": 576,
+          "ymin": 1755,
+          "xmax": 718,
+          "ymax": 1793
+        },
+        {
+          "text": "are",
+          "xmin": 738,
+          "ymin": 1769,
+          "xmax": 799,
+          "ymax": 1792
+        },
+        {
+          "text": "common",
+          "xmin": 816,
+          "ymin": 1769,
+          "xmax": 1000,
+          "ymax": 1792
+        },
+        {
+          "text": "data",
+          "xmin": 1019,
+          "ymin": 1753,
+          "xmax": 1105,
+          "ymax": 1793
+        },
+        {
+          "text": "passing",
+          "xmin": 1120,
+          "ymin": 1755,
+          "xmax": 1274,
+          "ymax": 1803
+        },
+        {
+          "text": "formats",
+          "xmin": 1290,
+          "ymin": 1753,
+          "xmax": 1450,
+          "ymax": 1793
+        },
+        {
+          "text": "Supported",
+          "xmin": 341,
+          "ymin": 1815,
+          "xmax": 558,
+          "ymax": 1867
+        },
+        {
+          "text": "in",
+          "xmin": 576,
+          "ymin": 1817,
+          "xmax": 612,
+          "ymax": 1854
+        },
+        {
+          "text": "Microsoft",
+          "xmin": 630,
+          "ymin": 1814,
+          "xmax": 841,
+          "ymax": 1857
+        },
+        {
+          "text": "for",
+          "xmin": 660,
+          "ymin": 1852,
+          "xmax": 727,
+          "ymax": 1897
+        },
+        {
+          "text": "distributed",
+          "xmin": 737,
+          "ymin": 1851,
+          "xmax": 973,
+          "ymax": 1896
+        },
+        {
+          "text": "Azure",
+          "xmin": 856,
+          "ymin": 1818,
+          "xmax": 986,
+          "ymax": 1855
+        },
+        {
+          "text": "and",
+          "xmin": 1004,
+          "ymin": 1815,
+          "xmax": 1076,
+          "ymax": 1855
+        },
+        {
+          "text": "IBM",
+          "xmin": 1096,
+          "ymin": 1818,
+          "xmax": 1190,
+          "ymax": 1854
+        },
+        {
+          "text": "Websphere",
+          "xmin": 1209,
+          "ymin": 1815,
+          "xmax": 1440,
+          "ymax": 1865
+        },
+        {
+          "text": "as",
+          "xmin": 1458,
+          "ymin": 1831,
+          "xmax": 1493,
+          "ymax": 1853
+        },
+        {
+          "text": "primary",
+          "xmin": 302,
+          "ymin": 1860,
+          "xmax": 466,
+          "ymax": 1905
+        },
+        {
+          "text": "services",
+          "xmin": 487,
+          "ymin": 1860,
+          "xmax": 646,
+          "ymax": 1895
+        },
+        {
+          "text": "communications",
+          "xmin": 989,
+          "ymin": 1856,
+          "xmax": 1338,
+          "ymax": 1897
+        },
+        {
+          "text": "All",
+          "xmin": 151,
+          "ymin": 1993,
+          "xmax": 215,
+          "ymax": 2030
+        },
+        {
+          "text": "protocols",
+          "xmin": 231,
+          "ymin": 1993,
+          "xmax": 431,
+          "ymax": 2043
+        },
+        {
+          "text": "are",
+          "xmin": 451,
+          "ymin": 2009,
+          "xmax": 512,
+          "ymax": 2031
+        },
+        {
+          "text": "in",
+          "xmin": 530,
+          "ymin": 1995,
+          "xmax": 564,
+          "ymax": 2031
+        },
+        {
+          "text": "development",
+          "xmin": 588,
+          "ymin": 1993,
+          "xmax": 861,
+          "ymax": 2047
+        },
+        {
+          "text": "with",
+          "xmin": 876,
+          "ymin": 1993,
+          "xmax": 970,
+          "ymax": 2032
+        },
+        {
+          "text": "HTTPS/",
+          "xmin": 992,
+          "ymin": 1994,
+          "xmax": 1174,
+          "ymax": 2033
+        },
+        {
+          "text": "RESTful,",
+          "xmin": 1171,
+          "ymin": 1993,
+          "xmax": 1372,
+          "ymax": 2038
+        },
+        {
+          "text": "DDS",
+          "xmin": 1391,
+          "ymin": 1995,
+          "xmax": 1496,
+          "ymax": 2033
+        },
+        {
+          "text": "and",
+          "xmin": 152,
+          "ymin": 2047,
+          "xmax": 223,
+          "ymax": 2087
+        },
+        {
+          "text": "MOTT",
+          "xmin": 242,
+          "ymin": 2043,
+          "xmax": 398,
+          "ymax": 2089
+        },
+        {
+          "text": "shipping",
+          "xmin": 420,
+          "ymin": 2047,
+          "xmax": 601,
+          "ymax": 2104
+        },
+        {
+          "text": "today.",
+          "xmin": 619,
+          "ymin": 2036,
+          "xmax": 745,
+          "ymax": 2093
+        },
+        {
+          "text": "Please",
+          "xmin": 782,
+          "ymin": 2047,
+          "xmax": 909,
+          "ymax": 2087
+        },
+        {
+          "text": "contact",
+          "xmin": 929,
+          "ymin": 2060,
+          "xmax": 1080,
+          "ymax": 2085
+        },
+        {
+          "text": "the",
+          "xmin": 1100,
+          "ymin": 2047,
+          "xmax": 1164,
+          "ymax": 2087
+        },
+        {
+          "text": "factory",
+          "xmin": 1182,
+          "ymin": 2047,
+          "xmax": 1333,
+          "ymax": 2095
+        },
+        {
+          "text": "for",
+          "xmin": 1352,
+          "ymin": 2040,
+          "xmax": 1415,
+          "ymax": 2087
+        },
+        {
+          "text": "the",
+          "xmin": 1432,
+          "ymin": 2047,
+          "xmax": 1496,
+          "ymax": 2087
+        },
+        {
+          "text": "release",
+          "xmin": 150,
+          "ymin": 2101,
+          "xmax": 289,
+          "ymax": 2140
+        },
+        {
+          "text": "dates",
+          "xmin": 306,
+          "ymin": 2096,
+          "xmax": 410,
+          "ymax": 2141
+        },
+        {
+          "text": "for",
+          "xmin": 428,
+          "ymin": 2094,
+          "xmax": 493,
+          "ymax": 2141
+        },
+        {
+          "text": "other",
+          "xmin": 506,
+          "ymin": 2093,
+          "xmax": 617,
+          "ymax": 2141
+        },
+        {
+          "text": "protocols",
+          "xmin": 635,
+          "ymin": 2098,
+          "xmax": 839,
+          "ymax": 2150
+        },
+        {
+          "text": "|",
+          "xmin": 839,
+          "ymin": 2133,
+          "xmax": 842,
+          "ymax": 2136
+        },
+        {
+          "text": "www.rowebots.com",
+          "xmin": 149,
+          "ymin": 2407,
+          "xmax": 588,
+          "ymax": 2441
+        },
+        {
+          "text": "Rowebots",
+          "xmin": 2610,
+          "ymin": 2411,
+          "xmax": 2758,
+          "ymax": 2436
+        },
+        {
+          "text": "Limited",
+          "xmin": 2773,
+          "ymin": 2411,
+          "xmax": 2881,
+          "ymax": 2435
+        },
+        {
+          "text": "C",
+          "xmin": 2897,
+          "ymin": 2409,
+          "xmax": 2920,
+          "ymax": 2432
+        },
+        {
+          "text": "20",
+          "xmin": 2939,
+          "ymin": 2410,
+          "xmax": 2985,
+          "ymax": 2437
+        },
+        {
+          "text": "16,",
+          "xmin": 2975,
+          "ymin": 2411,
+          "xmax": 3020,
+          "ymax": 2439
+        },
+        {
+          "text": "page",
+          "xmin": 3034,
+          "ymin": 2419,
+          "xmax": 3101,
+          "ymax": 2444
+        },
+        {
+          "text": "4",
+          "xmin": 3128,
+          "ymin": 2411,
+          "xmax": 3143,
+          "ymax": 2431
+        }
+      ],
+      "raw_text": "a MQTT Addi itional Information full publish subscribe / read write TCP based IBM supported Other seperately available RoweBots files for Unison OS bytes small RAM efficient client implementation ( 3.5K Flash | 128 | File Systems a DDS or Distributed Data Service System Security used for high bandwidth connections Wireless a best for shared memory or fast bus based systems USB a large memory footprint Remedytools HTTP/RESTful Internet Protocols easy implementation standard Unison for implementation Specific Processor Families port 80 IT departments favor this incremental approach Websockets secure easy to use a not necessarily widely supported yet Odata O Used to encapsulate xm I documents a Used with HTTP/RESTful solutions for document transmission ISON and BSON are common data passing formats Supported in Microsoft for distributed Azure and IBM Websphere as primary services communications All protocols are in development with HTTPS/ RESTful, DDS and MOTT shipping today. Please contact the factory for the release dates for other protocols | www.rowebots.com Rowebots Limited C 20 16, page 4 "
+    },
+    {
+      "page": 4,
+      "image_url": "https://nnts.imgix.net/uploadedfiles/rawocr/68607257-7ede-44cd-bbf8-03a44ff7b6b6-5.jpeg?auto=compress&expires=1700014722&or=0&s=f09e254801c23be89c8e736f99d371c1",
+      "size": {
+        "width": 3300,
+        "height": 2550
+      },
+      "words": [
+        {
+          "text": "HTTPS/RESTful",
+          "xmin": 1219,
+          "ymin": 205,
+          "xmax": 1511,
+          "ymax": 234
+        },
+        {
+          "text": "-now",
+          "xmin": 1505,
+          "ymin": 208,
+          "xmax": 1600,
+          "ymax": 233
+        },
+        {
+          "text": "DDS",
+          "xmin": 1219,
+          "ymin": 269,
+          "xmax": 1315,
+          "ymax": 296
+        },
+        {
+          "text": "now",
+          "xmin": 1350,
+          "ymin": 279,
+          "xmax": 1416,
+          "ymax": 295
+        },
+        {
+          "text": "(",
+          "xmin": 1431,
+          "ymin": 272,
+          "xmax": 1437,
+          "ymax": 290
+        },
+        {
+          "text": "3rd",
+          "xmin": 1439,
+          "ymin": 268,
+          "xmax": 1495,
+          "ymax": 296
+        },
+        {
+          "text": "party",
+          "xmin": 1507,
+          "ymin": 271,
+          "xmax": 1593,
+          "ymax": 304
+        },
+        {
+          "text": "1",
+          "xmin": 1589,
+          "ymin": 274,
+          "xmax": 1601,
+          "ymax": 296
+        },
+        {
+          "text": "MQTT",
+          "xmin": 1219,
+          "ymin": 332,
+          "xmax": 1351,
+          "ymax": 366
+        },
+        {
+          "text": "|",
+          "xmin": 1365,
+          "ymin": 349,
+          "xmax": 1377,
+          "ymax": 352
+        },
+        {
+          "text": "now",
+          "xmin": 1392,
+          "ymin": 342,
+          "xmax": 1458,
+          "ymax": 359
+        },
+        {
+          "text": "CoAP",
+          "xmin": 1219,
+          "ymin": 394,
+          "xmax": 1335,
+          "ymax": 423
+        },
+        {
+          "text": "with",
+          "xmin": 1346,
+          "ymin": 393,
+          "xmax": 1416,
+          "ymax": 419
+        },
+        {
+          "text": "Software",
+          "xmin": 246,
+          "ymin": 453,
+          "xmax": 444,
+          "ymax": 494
+        },
+        {
+          "text": "HTTPS/RESTful",
+          "xmin": 1238,
+          "ymin": 458,
+          "xmax": 1485,
+          "ymax": 484
+        },
+        {
+          "text": "upgrade",
+          "xmin": 1494,
+          "ymin": 456,
+          "xmax": 1623,
+          "ymax": 495
+        },
+        {
+          "text": "Unison",
+          "xmin": 501,
+          "ymin": 513,
+          "xmax": 642,
+          "ymax": 546
+        },
+        {
+          "text": "5.3",
+          "xmin": 660,
+          "ymin": 515,
+          "xmax": 709,
+          "ymax": 546
+        },
+        {
+          "text": "Availability",
+          "xmin": 920,
+          "ymin": 498,
+          "xmax": 1195,
+          "ymax": 547
+        },
+        {
+          "text": "-standardization",
+          "xmin": 1240,
+          "ymin": 518,
+          "xmax": 1496,
+          "ymax": 545
+        },
+        {
+          "text": "Version",
+          "xmin": 278,
+          "ymin": 547,
+          "xmax": 443,
+          "ymax": 588
+        },
+        {
+          "text": "delayed",
+          "xmin": 1511,
+          "ymin": 515,
+          "xmax": 1629,
+          "ymax": 552
+        },
+        {
+          "text": "Odata",
+          "xmin": 1219,
+          "ymin": 581,
+          "xmax": 1335,
+          "ymax": 611
+        },
+        {
+          "text": "contact",
+          "xmin": 1374,
+          "ymin": 590,
+          "xmax": 1489,
+          "ymax": 610
+        },
+        {
+          "text": "factory",
+          "xmin": 1499,
+          "ymin": 580,
+          "xmax": 1611,
+          "ymax": 616
+        },
+        {
+          "text": "Websockets",
+          "xmin": 1219,
+          "ymin": 643,
+          "xmax": 1422,
+          "ymax": 673
+        },
+        {
+          "text": "contact",
+          "xmin": 1462,
+          "ymin": 648,
+          "xmax": 1576,
+          "ymax": 671
+        },
+        {
+          "text": "factory",
+          "xmin": 1239,
+          "ymin": 706,
+          "xmax": 1351,
+          "ymax": 742
+        },
+        {
+          "text": "UNISON",
+          "xmin": 479,
+          "ymin": 1121,
+          "xmax": 922,
+          "ymax": 1236
+        },
+        {
+          "text": "RTOS",
+          "xmin": 689,
+          "ymin": 1446,
+          "xmax": 971,
+          "ymax": 1531
+        },
+        {
+          "text": "versi",
+          "xmin": 693,
+          "ymin": 1592,
+          "xmax": 813,
+          "ymax": 1627
+        },
+        {
+          "text": "ion",
+          "xmin": 808,
+          "ymin": 1592,
+          "xmax": 882,
+          "ymax": 1627
+        },
+        {
+          "text": "5.",
+          "xmin": 913,
+          "ymin": 1589,
+          "xmax": 946,
+          "ymax": 1624
+        },
+        {
+          "text": ".3",
+          "xmin": 945,
+          "ymin": 1590,
+          "xmax": 982,
+          "ymax": 1624
+        },
+        {
+          "text": "Contact:",
+          "xmin": 2604,
+          "ymin": 1715,
+          "xmax": 2753,
+          "ymax": 1745
+        },
+        {
+          "text": "sales@rowebots.con",
+          "xmin": 2776,
+          "ymin": 1713,
+          "xmax": 3137,
+          "ymax": 1745
+        },
+        {
+          "text": "+",
+          "xmin": 2849,
+          "ymin": 1793,
+          "xmax": 2876,
+          "ymax": 1814
+        },
+        {
+          "text": "1",
+          "xmin": 2876,
+          "ymin": 1790,
+          "xmax": 2881,
+          "ymax": 1808
+        },
+        {
+          "text": "519",
+          "xmin": 2905,
+          "ymin": 1788,
+          "xmax": 2964,
+          "ymax": 1815
+        },
+        {
+          "text": "279",
+          "xmin": 2977,
+          "ymin": 1788,
+          "xmax": 3037,
+          "ymax": 1815
+        },
+        {
+          "text": "46",
+          "xmin": 3050,
+          "ymin": 1788,
+          "xmax": 3088,
+          "ymax": 1815
+        },
+        {
+          "text": "00",
+          "xmin": 3102,
+          "ymin": 1788,
+          "xmax": 3140,
+          "ymax": 1815
+        },
+        {
+          "text": "O",
+          "xmin": 2616,
+          "ymin": 1901,
+          "xmax": 2694,
+          "ymax": 1985
+        },
+        {
+          "text": "RoweBots",
+          "xmin": 2763,
+          "ymin": 1904,
+          "xmax": 3141,
+          "ymax": 1960
+        },
+        {
+          "text": "L",
+          "xmin": 2761,
+          "ymin": 1984,
+          "xmax": 2787,
+          "ymax": 2020
+        },
+        {
+          "text": "i",
+          "xmin": 2822,
+          "ymin": 1986,
+          "xmax": 2831,
+          "ymax": 2013
+        },
+        {
+          "text": "m",
+          "xmin": 2868,
+          "ymin": 1996,
+          "xmax": 2911,
+          "ymax": 2021
+        },
+        {
+          "text": "i",
+          "xmin": 2948,
+          "ymin": 1985,
+          "xmax": 2957,
+          "ymax": 2013
+        },
+        {
+          "text": "i",
+          "xmin": 2953,
+          "ymin": 1985,
+          "xmax": 3011,
+          "ymax": 2018
+        },
+        {
+          "text": ":e",
+          "xmin": 3007,
+          "ymin": 1996,
+          "xmax": 3073,
+          "ymax": 2022
+        },
+        {
+          "text": "d",
+          "xmin": 3108,
+          "ymin": 1984,
+          "xmax": 3135,
+          "ymax": 2018
+        },
+        {
+          "text": "www.rowebots.com",
+          "xmin": 149,
+          "ymin": 2407,
+          "xmax": 590,
+          "ymax": 2441
+        },
+        {
+          "text": "All",
+          "xmin": 1013,
+          "ymin": 2402,
+          "xmax": 1045,
+          "ymax": 2425
+        },
+        {
+          "text": "trademarks",
+          "xmin": 1060,
+          "ymin": 2403,
+          "xmax": 1221,
+          "ymax": 2427
+        },
+        {
+          "text": "are",
+          "xmin": 1234,
+          "ymin": 2410,
+          "xmax": 1275,
+          "ymax": 2427
+        },
+        {
+          "text": "the",
+          "xmin": 1291,
+          "ymin": 2403,
+          "xmax": 1335,
+          "ymax": 2426
+        },
+        {
+          "text": "property",
+          "xmin": 1346,
+          "ymin": 2406,
+          "xmax": 1467,
+          "ymax": 2434
+        },
+        {
+          "text": "of",
+          "xmin": 1478,
+          "ymin": 2402,
+          "xmax": 1505,
+          "ymax": 2428
+        },
+        {
+          "text": "their",
+          "xmin": 1516,
+          "ymin": 2403,
+          "xmax": 1579,
+          "ymax": 2425
+        },
+        {
+          "text": "respectivespage",
+          "xmin": 1592,
+          "ymin": 2404,
+          "xmax": 1814,
+          "ymax": 2432
+        },
+        {
+          "text": "vendors",
+          "xmin": 1828,
+          "ymin": 2402,
+          "xmax": 1933,
+          "ymax": 2428
+        },
+        {
+          "text": "Rowebots",
+          "xmin": 2606,
+          "ymin": 2411,
+          "xmax": 2756,
+          "ymax": 2436
+        },
+        {
+          "text": "Limited",
+          "xmin": 2769,
+          "ymin": 2412,
+          "xmax": 2876,
+          "ymax": 2435
+        },
+        {
+          "text": "C",
+          "xmin": 2893,
+          "ymin": 2409,
+          "xmax": 2917,
+          "ymax": 2435
+        },
+        {
+          "text": "2016.",
+          "xmin": 2936,
+          "ymin": 2410,
+          "xmax": 3016,
+          "ymax": 2436
+        },
+        {
+          "text": "page",
+          "xmin": 3030,
+          "ymin": 2419,
+          "xmax": 3099,
+          "ymax": 2445
+        },
+        {
+          "text": "5",
+          "xmin": 3125,
+          "ymin": 2410,
+          "xmax": 3141,
+          "ymax": 2432
+        }
+      ],
+      "raw_text": "HTTPS/RESTful -now DDS now ( 3rd party 1 MQTT | now CoAP with Software HTTPS/RESTful upgrade Unison 5.3 Availability -standardization Version delayed Odata contact factory Websockets contact factory UNISON RTOS versi ion 5. .3 Contact: sales@rowebots.con + 1 519 279 46 00 O RoweBots L i m i i :e d www.rowebots.com All trademarks are the property of their respectivespage vendors Rowebots Limited C 2016. page 5 "
+    }
+  ]
+}
