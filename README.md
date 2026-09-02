@@ -10,3 +10,10 @@ I joined the Cohere Coral Hackathon from LabLab.ai in order to learn more about 
 
 - Mainly terminal based communication, as streamlit was an unknown method at the time
 - Played around with the LLM's use cases in chatting, data recognition, and training sets
+- Attempted to train the LLM by providing a JSON file of characters and their likelihood of being the next apparent word
+
+## Technologies
+
+- Cohere Coral LLM Model
+- Cohere Playground (Testing and Model Documentation)
+- Python (Pytorch, TensorFlow, JSON)
